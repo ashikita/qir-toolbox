@@ -1,0 +1,234 @@
+{
+  "title": "Comparative Review of Life Cycle Inventory Platforms: Indonesia and Selected Countries",
+  "affiliations": {
+    "1": "Research Center for Sustainable Production System and Life Cycle Assessment, National Research and Innovation Agency, Tangerang Selatan, Banten 15314, Indonesia",
+    "2": "Research Center for Testing Technology and Standards, National Research and Innovation Agency, Tangerang Selatan, Banten 15314, Indonesia",
+    "3": "Center for Data and Information, National Research and Innovation Agency, Jl. M.H. Thamrin No. 8, Jakarta Pusat 10340, Indonesia",
+    "4": "Energy Security Graduate Program, Faculty of Defense Management, Republic of Indonesia Defense University, Bogor, Jawa Barat 16810, Indonesia",
+    "5": "Research Center for Sustainable Industrial and Manufacturing Systems, National Research and Innovation Agency, Tangerang Selatan, Banten 15314, Indonesia",
+    "6": "Directorate for Laboratory Management, Research Facilities, and Science and Technology Park, National Research and Innovation Agency, Jakarta Pusat 10340, Indonesia",
+    "7": "Research Center for Limnology and Water Resources, National Research and Innovation Agency, Bogor, Jawa Barat 16911, Indonesia",
+    "8": "Research Center for Electrical Technology, National Research and Innovation Agency, Tangerang Selatan, Banten 15314, Indonesia",
+    "9": "Directorate for Repositories, Multimedia, and Scientific Publishing, National Research and Innovation Agency, Jakarta Pusat 10340, Indonesia",
+    "10": "Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, Bandung, 40132, Indonesia"
+  },
+  "authors": [
+    {
+      "name": "Nugroho Adi Sasongko",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "4",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Novy Ariyanto",
+      "orcid": "0009-0003-5583-5670",
+      "is_corresponding": true,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {
+        "email": "novy001@brin.go.id",
+        "phone": null
+      }
+    },
+    {
+      "name": "Isnaeni Kumalasari",
+      "orcid": "0009-0004-6718-0998",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "6"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Annisa Indah Pratiwi",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "7"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Virny Zasyana Eka Putri",
+      "orcid": "0009-0005-8743-0840",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Maya Larasati Donna Wardani",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Ahmad Ismed Yanuar",
+      "orcid": "0000-0003-4322-1383",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Agam Wira Sani",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Nurus Sahari Laili",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Yoyon Wahyono",
+      "orcid": "0000-0002-8975-7477",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Anisah Anisah",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Muhammad Raihan Farras Hakim",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Edi Iswanto Wiloso",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Siswanto",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1",
+        "5"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Kusrestuwardhani",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Ihsan Supono",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "2",
+        "8"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Hendro Subagyo",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "3",
+        "9"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Acep Furqon",
+      "orcid": null,
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "10"
+      ],
+      "contact_info": {}
+    }
+  ],
+  "abstract": "Sustainability assessment is essential for industries to meet global environmental standards. This study explores Indonesia’s Life Cycle Inventory (LCI) database development and its alignment with international frameworks. Through a comparative analysis of LCI roadmaps from Japan, Thailand, and Malaysia, the research identifies best practices and challenges. Findings emphasize the role of Product Category Rules (PCRs) in standardizing Life Cycle Assessment (LCA). Indonesia’s LCI development, in collaboration with Japan, aims to enhance competitiveness, improve emissions quantification, and support a low-carbon transition. The study provides insights and recommendations for integrating international best practices into Indonesia’s sustainability strategy.",
+  "keywords": [
+    "Life Cycle Assessment (LCA)",
+    "Life Cycle Inventory (LCI)",
+    "Platform",
+    "Sustainability"
+  ],
+  "manuscript_record": {
+    "received": "2025-06-16",
+    "revised": "2025-08-15",
+    "accepted": "2025-12-16",
+    "final_review": "2025-09-08"
+  },
+  "authors_short": "N. Sasongko et al.",
+  "page_info": {
+    "file_name_es": "EGREEN-02827-2025-02_ICSEEA2025.pdf",
+    "file_name_pages": "p2236-2252.pdf",
+    "start_page": 2236,
+    "end_page": 2252,
+    "page_count": 17
+  },
+  "publication_info": {
+    "volume": "12",
+    "issue": "04",
+    "month": "December",
+    "year": "2025"
+  },
+  "citation_info_all": {
+    "complete_cite": "N. Sasongko et al., \"Comparative Review of Life Cycle Inventory Platforms: Indonesia and Selected Countries\". Evergreen, 12 (04) 2236–2252 (2025). https://doi.org/10.5109/7402652.",
+    "DOI": "https://doi.org/10.5109/7402652",
+    "export_citation_url": "https://catalog.lib.kyushu-u.ac.jp/opac_mendeley/?lang=1&list_bibid=7402652&list_datatype=MD100000&check=1",
+    "full_ref_lib_urlf": "https://catalog.lib.kyushu-u.ac.jp/opac_detail_md/?lang=1&amode=MD100000&bibid=7402652",
+    "full_text_pdf_url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7402652/p2236-2252.pdf",
+    "zenodo_doi": "10.5281/zenodo.18373481",
+    "zenodo_url": "https://zenodo.org/record/18373481"
+  }
+}

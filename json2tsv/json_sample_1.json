@@ -1,0 +1,78 @@
+{
+  "title": "Predictive Surface Defect Detection in Particleboard Manufacturing using Defect Tracking Matrix–Principal Component Analysis Framework toward Zero Defect Manufacturing",
+  "affiliations": {
+    "1": "Department of Industrial and Systems Engineering, Institut Teknologi Sepuluh Nopember, Indonesia",
+    "2": "Departement of Industrial Engineering, Universitas Panca Marga, Indonesia"
+  },
+  "authors": [
+    {
+      "name": "Yustina Suhandini Tjahjaningsih",
+      "orcid": "0000-0002-7005-0797",
+      "is_corresponding": true,
+      "affiliation_numbers": [
+        "1",
+        "2"
+      ],
+      "contact_info": {
+        "email": "yustina.suhandini@upm.ac.id",
+        "phone": "6281131112344"
+      }
+    },
+    {
+      "name": "Moses Laksono Singgih",
+      "orcid": "0000-0002-6200-6411",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1"
+      ],
+      "contact_info": {}
+    },
+    {
+      "name": "Putu Dana Karningsih",
+      "orcid": "0000-0002-2367-3449",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1"
+      ],
+      "contact_info": {}
+    }
+  ],
+  "abstract": "Zero Defects Manufacturing (ZDM) is a proactive quality strategy aimed at preventing defects during production. This study proposes a novel integrated method using the Defect Tracking Matrix (DTM) and Principal Component Analysis (PCA) to predict the sources of surface defects in particleboard manufacturing. The authors evaluated twenty technical attributes and sixteen quality defects. Results showed that duct cleaning, setting blower, screen cleaning, press calibration, and blade sharpening were key contributors to detect patterns. The DTM-PCA framework improves traceability and helps implement ZDM through structured, data-driven analysis in a previously unexplored context.",
+  "keywords": [
+    "defect tracking matrix",
+    "particleboard industry",
+    "prediction",
+    "principal component analysis",
+    "quality control",
+    "zero defects manufacturing"
+  ],
+  "manuscript_record": {
+    "received": "2025-06-05",
+    "revised": "2025-08-14",
+    "accepted": "2025-12-17",
+    "final_review": "2025-09-04"
+  },
+  "authors_short": "Y. Tjahjaningsih, M. Singgih, P. Karningsih",
+  "page_info": {
+    "file_name_es": "EGREEN-02772-2025-03_ICSEEA2025.pdf",
+    "file_name_pages": "p2184-2198.pdf",
+    "start_page": 2184,
+    "end_page": 2198,
+    "page_count": 15
+  },
+  "publication_info": {
+    "volume": "12",
+    "issue": "04",
+    "month": "December",
+    "year": "2025"
+  },
+  "citation_info_all": {
+    "complete_cite": "Y. Tjahjaningsih, M. Singgih, P. Karningsih, \"Predictive Surface Defect Detection in Particleboard Manufacturing using Defect Tracking Matrix–Principal Component Analysis Framework toward Zero Defect Manufacturing\". Evergreen, 12 (04) 2184–2198 (2025). https://doi.org/10.5109/7402647.",
+    "DOI": "https://doi.org/10.5109/7402647",
+    "export_citation_url": "https://catalog.lib.kyushu-u.ac.jp/opac_mendeley/?lang=1&list_bibid=7402647&list_datatype=MD100000&check=1",
+    "full_ref_lib_urlf": "https://catalog.lib.kyushu-u.ac.jp/opac_detail_md/?lang=1&amode=MD100000&bibid=7402647",
+    "full_text_pdf_url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7402647/p2184-2198.pdf",
+    "zenodo_doi": "10.5281/zenodo.18373445",
+    "zenodo_url": "https://zenodo.org/record/18373445"
+  }
+}
