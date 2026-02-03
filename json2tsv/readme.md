@@ -51,7 +51,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 ## 🔧 セットアップと実行
 
 1.  **環境**
-    *   Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。
+    *   Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。Google Colabで動作検証しています。Colabバッジあり。
 2.  **入力ファイルの配置**
     *   変換対象の `*.json` をノートブックと同じ作業ディレクトリに置きます。
 3.  **ノートブックの実行**
@@ -137,7 +137,7 @@ A. サンプル `output_sample_1.txt` はQIRの評価環境で取り込み確認
     → `prompt_for_AI_code_generation.txt` は、要件定義としても利用でき、コードの再生成・微修正に有効です。
 
 > **補足（離任時の備え）**  
-> たとえメンテナンス者が不在になっても、サンプル JSON/TSV とマッピング表、そして本READMEがあれば、後任者や生成AI（Copilot など）が容易に復元・保守できます。
+> たとえメンテナンス者が不在になっても、サンプルJSON/TSVとマッピング表、そして本READMEがあれば、後任者や生成AI（Copilot など）が容易に復元・保守できます。
 
 ***
 
@@ -150,7 +150,7 @@ A. サンプル `output_sample_1.txt` はQIRの評価環境で取り込み確認
 
 ## 🙏 謝辞
 
-*   Evergreen編集チームの皆さま、Kyaw Thu先生
+*   Evergreen編集チームの皆さま、Kyaw Thu教授
 
 ***
 
