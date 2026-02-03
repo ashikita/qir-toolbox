@@ -11,7 +11,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 
 > **想定ユースケース**
 >
-> *   研究成果特集号など多数の論文を **一括で QIR に登録**。
+> *   研究成果特集号など多数の論文を **一括でQIRに登録**。
 > *   著者数・所属数・キーワード数が論文ごとに異なる動的列展開（#n インクリメント）に対応。
 
 ***
@@ -19,7 +19,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 ## ✨ 主な特徴
 
 *   **JSON → TSV の一括変換**（作業ディレクトリ内の `*.json` を逐次処理）
-*   **JPCOAR2.0 ベースの列設計**（Evergreen 向け最小コア＋運用固定値を同梱）
+*   **JPCOAR2.0 ベースの列設計**（Evergreen向け最小コア＋運用固定値を同梱）
 *   **動的な繰り返し要素**に対応
     *   `/jpcoar:creator#n`（著者）
     *   `/jpcoar:creator#n/jpcoar:affiliation#m`（著者の所属）
@@ -51,7 +51,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 ## 🔧 セットアップと実行
 
 1.  **環境**
-    *   ローカルの Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。
+    *   Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。
 2.  **入力ファイルの配置**
     *   変換対象の `*.json` をノートブックと同じ作業ディレクトリに置きます。
 3.  **ノートブックの実行**
@@ -64,12 +64,12 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 
 ## 📑 JSON 仕様（入力）
 
-*   **著者と所属（新スキーマ）**
+*   **著者と所属**
     *   `authors[*].name` / `authors[*].orcid` / `authors[*].affiliation_numbers`（例：`["1","2"]`）
     *   `affiliations` は辞書（例：`{"1": "Dept. A", "2": "Dept. B"}`）
     *   これらを結合して、`/jpcoar:creator#n/jpcoar:affiliation#m/jpcoar:affiliationName#1` を展開します。
 *   **キーワード**：`keywords`（配列）→ `/jpcoar:subject#k` 列へ展開。
-*   **要旨**：`abstract` → `/datacite:description#1`（`@descriptionType=Abstract` 固定）。
+*   **抄録**：`abstract` → `/datacite:description#1`（`@descriptionType=Abstract` 固定）。
 *   **発行情報**：`publication_info.year` / `publication_info.month` / `publication_info.volume` / `publication_info.issue`
     *   `month` は英語名/略称/数値いずれも許容し **MM** に正規化（例：`December`→`12`）。
     *   `issue` は先頭ゼロを除去（例：`"04"`→`4`）。
@@ -130,14 +130,14 @@ A. サンプル `output_sample_1.txt` は QIR の評価環境で取り込み確�
 ## 🛠 保守と拡張
 
 *   **JSON スキーマが変わったら？**  
-    → `マッピング表.xlsx` とノートブック設定ブロックを更新してください。繰り返しのルール（`#n/#m/#k` の増殖）は不変です。
+    → `マッピング表.xlsx` とノートブック設定ブロックを更新してください。繰り返しのルール（`#n` の増殖）は不変です。
 *   **引き継ぎ運用**  
     → 固定値は設定ブロックに集約しています。将来のポリシー変更（出版社名・権利等）は **そこで一括変更**できます。
 *   **生成AIの活用**  
     → `prompt_for_AI_code_generation.txt` は、要件定義としても利用でき、コードの再生成・微修正に有効です。
 
 > **補足（離任時の備え）**  
-> たとえメンテナが不在になっても、サンプル JSON/TSV とマッピング表、そして本 README があれば、\*\*後任者や生成AI（Copilot など）\*\*が容易に復元・保守できます。
+> たとえメンテナンス者が不在になっても、サンプル JSON/TSV とマッピング表、そして本READMEがあれば、後任者や生成AI（Copilot など）が容易に復元・保守できます。
 
 ***
 
@@ -151,7 +151,7 @@ A. サンプル `output_sample_1.txt` は QIR の評価環境で取り込み確�
 
 ## 📄 ライセンス
 
-*   MIT
+*   MIT License
 *   変換後のメタデータ（TSV）に含まれる **論文情報は原著者・出版社の権利**に従います。
 
 ***
@@ -166,7 +166,7 @@ A. サンプル `output_sample_1.txt` は QIR の評価環境で取り込み確�
 
 *   [ ] `output.txt` にヘッダ行が 1 行だけ存在する
 *   [ ] `/jpcoar:creator#n` ブロックが著者数分だけ展開されている
-*   [ ] 各著者の所属が `affiliation#m` として展開されている
+*   [ ] 各著者の所属が `affiliation#n` として展開されている
 *   [ ] `/jpcoar:subject#k` がキーワード数分だけ展開されている
 *   [ ] `/datacite:date#1` が `YYYY-MM` 形式、`issue` の先頭ゼロは除去
 *   [ ] ORCID が正規表現に合致しない場合は空欄・URI 未付与
