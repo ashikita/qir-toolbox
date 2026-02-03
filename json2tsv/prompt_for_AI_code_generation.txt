@@ -1,0 +1,51 @@
+サンプルのファイルとマッチング表を参考にして、論文のメタデータを記述したjsonファイルをTAB区切りテキスト形式の機関リポジトリのメタデータ一括フォーマットに変換するPythonコードを以下の条件で作成してください。PythonコードはローカルのJupyter Hubで実行するのでコードの内容のみ提示してください。
+・入力元は作業ディレクトリにある拡張子jsonの全ファイルとし、逐次処理してください。
+・出力先はoutput.txtとし、1論文1行でこのtxtファイルに記述してください。
+・参考としてinput_sample.jsonとoutput_sample.txtをアップロードします。
+・output.txtは以下の構成としてください。JPCOARスキーマv.2.0をベースにしています。初期値のある項目はjsonによらず変数化してコード冒頭の設定ブロックで設定可能としてください。
+　/dc:title#1　※jsonから取得する。
+　/dc:title#1@xml:lang　※titleの値に応じて"en"または"ja"または空値とする。
+　/jpcoar:creator#1　※ヘッダとして機能する。値は入力しない。
+　/jpcoar:creator#1/jpcoar:nameIdentifier#1　※jsonからorcid_idを取得する。
+　/jpcoar:creator#1/jpcoar:nameIdentifier#1@nameIdentifierScheme　※jpcoar:nameIdentifierの値に応じて"ORCID"または空値とする。
+　/jpcoar:creator#1/jpcoar:nameIdentifier#1@nameIdentifierURI※jpcoar:nameIdentifierの値に応じて"https://orcid.org/[orcid_id]"または空値とする。
+　/jpcoar:creator#1/jpcoar:creatorName#1　※jsonからauthor_nameを取得する。
+　/jpcoar:creator#1/jpcoar:creatorName#1@xml:lang　※jpcoar:creatorNameの値に応じて"en"または"ja"または空値とする。
+　/jpcoar:creator#1/jpcoar:affiliation#1　※ヘッダとして機能する。値は入力しない。
+　/jpcoar:creator#1/jpcoar:affiliation#1/jpcoar:affiliationName#1　※jsonからaffiliation_numbersに対応するaffiliation_nameを取得する。
+　/jpcoar:creator#1/jpcoar:affiliation#1/jpcoar:affiliationName#1@xml:lang　※jpcoar:affiliationNameの値に応じて"en"または"ja"または空値とする。
+　/dcterms:accessRights#1　※初期値を"110"とする。コード化されておりopen accessに相当する。
+　/dc:rights#1　※初期値を"Creative Commons Attribution 4.0 International"とする。
+　/dc:rights#1@xml:lang　※初期値を"en"とする。
+　/dc:rights#1@rdf:resource　※初期値を"https://creativecommons.org/licenses/by/4.0/"とする。
+　/jpcoar:subject#1　※jsonから取得する。
+　/jpcoar:subject#1@xml:lang　※subjectの値に応じて"en"または"ja"または空値とする。
+　/jpcoar:subject#1@subjectScheme　※初期値を"Other"とする。
+　/datacite:description#1　※jsonから取得する。
+　/datacite:description#1@xml:lang　※descriptionの値に応じて"en"または"ja"または空値とする。
+　/datacite:description#1@descriptionType　※無条件で"Abstract"とする。
+　/dc:publisher#1　※初期値を"Transdisciplinary Research and Education Center for Green Technologies, Kyushu University"とする。
+　/dc:publisher#1@xml:lang　※publisherの値に応じて"en"または"ja"または空値とする。
+　/dc:publisher#2　※初期値を"九州大学グリーンテクノロジー研究教育センター"とする。
+　/dc:publisher#2@xml:lang　※publisherの値に応じて"en"または"ja"または空値とする。
+　/datacite:date#1　※jsonから取得する。publication_info=>year、publication_info=> month　ただしYYYY-MMの形式に変換
+　/datacite:date#1@dateType　※初期値を"Issued"とする。
+　/dc:language#1　※初期値を"eng"とする。
+　/local:contentsType#1　※初期値を"1207000000"とする。コード化されておりjournal articleに相当する。
+　/oaire:version#1　※初期値を"VoR"とする。
+　/local:peerReviewed#1　※初期値を"refereed"とする。
+　/jpcoar:sourceIdentifier#1　※初期値を"2189-0420"とする。
+　/jpcoar:sourceIdentifier#1@identifierType　※初期値を"PISSN"とする。
+　/jpcoar:sourceIdentifier#2　※初期値を"2432-5953"とする。
+　/jpcoar:sourceIdentifier#2@identifierType　※初期値を"eISSN"とする。
+　/local:sourceTitle#1　※初期値を"evergreen"とする。
+　/jpcoar:volume#1　※jsonから取得する。publication_info=>volume
+　/jpcoar:issue#1　※jsonから取得する。publication_info=>issue　ただし先頭ゼロは除外(01は1に修正)
+　/jpcoar:pageStart#1　※jsonから取得する。page_info=>start_page
+　/jpcoar:pageEnd#1　※jsonから取得する。page_info=>end_page
+・属性xml:langは、その直前の値がかな漢字かアルファベットか簡易的に判別し、かな漢字なら"ja"、アルファベットなら"en"を入力してください。
+・共著論文の場合はcreatorブロックを繰り返します。「jpcoar:creator#1」から「/jpcoar:affiliation#1/jpcoar:affiliationName#1」までが1人目の著者のcreatorブロックです。2人目の著者は「jpcoar:creator#2」から「/jpcoar:affiliation#2/jpcoar:affiliationName#1」となります。
+・1人の著者が複数の所属機関をもつ場合はaffiliationブロックを繰り返します。「/jpcoar:creator#1/jpcoar:affiliation#1」から「/jpcoar:creator#1/jpcoar:affiliation#1/jpcoar:affiliationName#1@xml:lang」までがaffiliationブロックです。例えば1人目の著者の2つ目の所属機関の情報は「/jpcoar:creator#1/jpcoar:affiliation#2」から「/jpcoar:creator#1/jpcoar:affiliation#2/jpcoar:affiliationName#1@xml:lang」までのブロックを追加して記述します。
+・json内に記述されている著者の役割(role)や日付(date)、責任著者情報(corresponding author)は無視してください。
+・処理が完了したら標準出力に完了メッセージを出力してください。
+・複数の論文の情報を処理する場合、著者数や著者の所属機関数が論文毎に異なるため、列のラベルと論文(行)ごとの値がずれないように適宜TABを挿入して調整してください。
