@@ -51,8 +51,8 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 ## 🔧 セットアップと実行
 
 1.  **環境**
-    *   Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。Google Colabで動作検証しています。Colabバッジあり。[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/qir-toolbox/blob/main/json2tsv/json2tsv-4evergreen.ipynb)
-``
+    *   Jupyter（JupyterHub など）で実行可。Python 3.9+ 推奨。
+    *   Google Colabで動作検証しています。Colabバッジあり。[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/qir-toolbox/blob/main/json2tsv/json2tsv-4evergreen.ipynb)
 2.  **入力ファイルの配置**
     *   変換対象の `*.json` をノートブックと同じ作業ディレクトリに置きます。
 3.  **ノートブックの実行**
