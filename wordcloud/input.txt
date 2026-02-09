@@ -6577,7 +6577,7 @@ Identification and Redescription of Eumorphobotys eumorphalis, with Remarks on I
 Kyushu University polarized ion source
 船体建造適用に向けた構造用接着剤継手のFE解析
 デジタル画像相関法による低応力拡大係数範囲域における疲労亀裂先端近傍の両振り塑性域寸法の測定
-Expression patterns of keratin family members during tooth development and the role of <i>keratin 17</i> in cytodifferentiation of stratum intermedium and stellate reticulum
+Expression patterns of keratin family members during tooth development and the role of keratin 17 in cytodifferentiation of stratum intermedium and stellate reticulum
 法定納期限と錯誤無効の主張の可否
 Effects of macropore size in carbonate apatite honeycomb scaffolds on bone regeneration
 Anchoring geometry is a significant factor in determining the direction of kinesin-14 motility on microtubules
@@ -8008,7 +8008,7 @@ New Q and V-band ECE radiometer for low magnetic field operation on LHD
 Spectroscopy of neutron-rich nuclei produced by multinucleon transfer reactions at KISS
 Combined evaluation of glomerular phospholipase A2 receptor and immunoglobulin G subclass in membranous nephropathy
 Disturbance in the potential cardiovascular–bone–skeletal muscle axis and morbidity and mortality in patients undergoing haemodialysis: the Q-Cohort Study
-Genomic variation across distribution of Micro-Tom, a model cultivar of tomato (<i>Solanum lycopersicum</i>)
+Genomic variation across distribution of Micro-Tom, a model cultivar of tomato (Solanum lycopersicum)
 A rare case of cardiac myxoma with light bulb–like cystic morphology: a case report
 Pannus formation: a rare culprit of early bioprosthetic valve dysfunction—a case report
 Overview of Large Helical Device experiments of basic plasma physics for solving crucial issues in reaching burning plasma conditions
@@ -8022,7 +8022,7 @@ Core density profile control by energetic ion anisotropy in LHD
 Magnetostriction related to skyrmion-lattice formation in chiral magnet FeGe
 Pharmacokinetics, safety, and efficacy of 20% subcutaneous immunoglobulin (Ig20Gly) administered weekly or every 2 weeks in Japanese patients with primary immunodeficiency diseases: a phase 3, open-label study
 Identification of potential C1-binding sites in the immunoglobulin CL domains
-Fashion 4.0 and emerging designers: <i>leveraging data and AI to drive creativity, innovation and compliance in global supply chain regulation</i>
+Fashion 4.0 and emerging designers: leveraging data and AI to drive creativity, innovation and compliance in global supply chain regulation
 剥離 : 再付着流れの基本特性
 流体運動の画像処理による解析システムの開発
 TRIAM-1Mにおける水素リサイクリング
@@ -9513,7 +9513,7 @@ Transcription-coupled changes in genomic region proximities during transcription
 Omitting types theorem in hybrid dynamic first-order logic with rigid symbols
 Survival outcomes including salvage therapy of adult head and neck para-meningeal rhabdomyosarcoma: a multicenter retrospective study from Japan
 Sudden Change Events of Plasma Current during Electron-Cyclotron Current Start-Up on the QUEST Spherical Tokamak
-A macroevolutionary role for chromosomal fusion and fission in <i>Erebia</i> butterflies
+A macroevolutionary role for chromosomal fusion and fission in Erebia butterflies
 Influence of inclined piles in hybrid type steel pile reinforcement used in seismic countermeasure of highway embankment
 Autonomous assembly and disassembly of gliding molecular robots regulated by a DNA-based molecular controller
 Mechano-gradients drive morphogen-noise correction to ensure robust patterning
@@ -10758,7 +10758,7 @@ Search for long-lived, massive particles in events with displaced vertices and m
 The Role of Adipocytokines and their Receptors in Prostate Cancer: Adiponectin May Protect Against Progression
 Moduli inflation from modular flavor symmetries
 ダイズの脂肪酸から発生する主要な「不快臭」とそれらの遺伝的な改良
-数値鼻（<i>in silico</i> nose）の開発動向とにおい・かおり評価への適用可能性
+数値鼻（in silico nose）の開発動向とにおい・かおり評価への適用可能性
 Synthesis and Properties of Cyclic π-Conjugated Molecules and Their Dication and Monoradical Cation
 A Novel Oncolytic Viral Therapy Using Coxsackievirus B3 (CVB3) for Human Pancreatic Cancer Including Cancer-associated Fibroblasts
 Immune Checkpoint Inhibitors for Nasopharyngeal Carcinoma in a Real-world Setting in Japan
@@ -10766,7 +10766,7 @@ Predictive Performance of Machine Learning–Based Models for Poststroke Clinica
 Lacrimal Sac Tumors: A Single-institution Experience, Including New Insights
 Correlations between flow and transverse momentum in Xe+Xe and Pb+Pb collisions at the LHC with the ATLAS detector: A probe of the heavy-ion initial state and nuclear deformation
 Utility of Precision Oncology Using Cancer Genomic Profiling for Head and Neck Malignancies
-Pembrolizumab Monotherapy<i>Versus</i>Pembrolizumab Plus Chemotherapy in Patients With Head and Neck Squamous Cell Carcinoma
+Pembrolizumab MonotherapyVersusPembrolizumab Plus Chemotherapy in Patients With Head and Neck Squamous Cell Carcinoma
 Search for resonant and non-resonant Higgs boson pair production in the $$ b\overline{b}{\tau}^{+}{\tau}^{-} $$ decay channel using 13 TeV pp collision data from the ATLAS detector
 Measurements of Zγ+jets differential cross sections in pp collisions at $$ \sqrt{s} $$ = 13 TeV with the ATLAS detector
 Inclusive and differential cross-sections for dilepton $$ t\overline{t} $$ production measured in $$ \sqrt{s} $$ = 13 TeV pp collisions with the ATLAS detector
@@ -10856,7 +10856,7 @@ Air Traffic Efficiency Analysis of Airliner Scheduled Flights Using Collaborativ
 A MOVING OBJECT DETECTION METHOD BASED ON THE OTSU METHOD
 Glial fibrillary acidic protein immunopositive neuroglial tissues with or without ependyma-lined canal in spinal lipoma of filar type: Relationship with retained medullary cord
 BADAモデルを用いた旅客機の軌道最適化による運航効率の評価
-Drug-resistant <i>BRA</i>F V600E-mutant recurrent pleomorphic xanthoastrocytoma, CNS WHO Grade 3 successfully resolved with incidental discontinuation of combined BRAF and MEK inhibitor therapy
+Drug-resistant BRAF V600E-mutant recurrent pleomorphic xanthoastrocytoma, CNS WHO Grade 3 successfully resolved with incidental discontinuation of combined BRAF and MEK inhibitor therapy
 Experimental, numerical and analytical evaluation of j × B-thrust for fast-liquid-metal-flow divertor systems of nuclear fusion devices
 Auditory brainstem response to paired clicks as a candidate marker of cochlear synaptopathy in humans
 Sulfur metabolic response in macrophage limits excessive inflammatory response by creating a negative feedback loop
@@ -10866,7 +10866,7 @@ MUC1-C Is a Common Driver of Acquired Osimertinib Resistance in NSCLC
 Noble gas mass-spectrometry for extraterrestrial micro-samples: analyses of asteroid matter returned by Hayabusa2 JAXA mission
 Differentiation-inducing factor 1 activates cofilin through pyridoxal phosphatase and AMP-activated protein kinase, resulting in mitochondrial fission
 到着時刻を指定した旅客機の軌道最適化
-Mogroside IIE,an <i>in vivo</i> metabolite of sweet agent,alleviates acute lung injury via Pla2g2a-EGFR inhibition
+Mogroside IIE,an in vivo metabolite of sweet agent,alleviates acute lung injury via Pla2g2a-EGFR inhibition
 Connectivity and creativity in times of conflict
 Yutaka: how do we prototype the transformative change towards nature positive designs with soil
 動的計画法による再突入飛行の最適軌道設計
@@ -10923,7 +10923,7 @@ Influence of sawtooth oscillations on fast ions in a stellarator
 University campuses' location-allocation: a case study of Egypt with insights from the Japanese context
 Monitoring water infiltration in multiple layers of sandstone coal mining model with cracks using ERT
 Relationship between acoustic wave velocity and mechanical properties in Acacia mangium wood
-Unusual Magnetism in a <i>d</i>-Electron Compound Fe(OH)Cl: A <i>X</i>–<i>Y</i> Stacked-Triangular Antiferromagnet with Characteristic Double-Bridge Bonding, Unquenched Orbital Moment and Coexisting Spin Fluctuations
+Unusual Magnetism in a d-Electron Compound Fe(OH)Cl: A X–Y Stacked-Triangular Antiferromagnet with Characteristic Double-Bridge Bonding, Unquenched Orbital Moment and Coexisting Spin Fluctuations
 New type of self-sustained divertor oscillation driven by magnetic island dynamics in Large Helical Device
 Investigation of granular natural stone materials as photothermal absorbers for sustainable and environmentally friendly energy harvesting
 Trading-Off Privacy and Willingness to Share Personal Health Information: A Survey of Municipal Employees in Fukuoka City, Japan
@@ -10931,7 +10931,7 @@ The Effectiveness of the Continuous and Cyclic Method on CO&amp;lt;sub&amp;gt;2&
 A Comparative Study of Two Tree-Based Models for Predicting Flyrock Velocity at Open Pit Bench Mining
 Computer Simulation of Piano Tones and Design of Virtual Piano System
 Efficient ECCD non-inductive plasma current start-up, ramp-up, and sustainment for an ST fusion reactor
-A Boron, Nitrogen, and Oxygen Doped π‐Extended Helical Pure Blue Multiresonant Thermally Activated Delayed Fluorescent Emitter for Organic Light Emitting Diodes That Shows Fast <i>k</i><sub>RISC</sub> Without the Use of Heavy Atoms
+A Boron, Nitrogen, and Oxygen Doped π‐Extended Helical Pure Blue Multiresonant Thermally Activated Delayed Fluorescent Emitter for Organic Light Emitting Diodes That Shows Fast k<sub>RISC</sub> Without the Use of Heavy Atoms
 Actin filaments accumulated in the nucleus remain in the vicinity of condensing chromosomes in the zebrafish early embryo
 Identification and analysis of short indels inducing exon extension/shrinkage events
 Saturation of Grain Fragmentation upon Severe Plastic Deformation: Fact or Fiction?
@@ -10974,7 +10974,7 @@ Does environmental materiality matter to corporate financial performance: Eviden
 Novel mechanism of androgen receptor regulation through switching by long non‐coding RNA LINC01126
 Unsupervised Machine Learning‐Derived Anion‐Exchange Membrane Polymers Map: A Guideline for Polymers Exploration and Design
 An underlying factor of increasing early winter precipitation in the Hokuriku region of Japan in recent decades
-<i>In situ</i> Electrolyte Design: Understanding the Prospects and Limitations of a High Capacity Ca(BH<sub>4</sub>)<sub>2</sub> Anode for All Solid State Batteries
+In situ Electrolyte Design: Understanding the Prospects and Limitations of a High Capacity Ca(BH<sub>4</sub>)<sub>2</sub> Anode for All Solid State Batteries
 A feces‐filled non‐inverted ileal pseudodiverticulum presenting as a pedunculated polyp successfully treated by traction‐assisted endoscopic submucosal dissection
 How corporate climate change mitigation actions affect the cost of capital
 Scalability of nanopore osmotic energy conversion
@@ -11137,12 +11137,12 @@ Silver phosphate-modified carbonate apatite honeycomb scaffolds for anti-infecti
 Strengthening of HCP metals with split basal texture through non-dislocation hardening mechanism
 Neutron capture reaction cross-section of 79Se through the 79Se(d,p) reaction in inverse kinematics
 Nanobubble-assisted formation of non-gaseous nanoparticles in water
-Constraint on the total width of the Higgs boson from Higgs boson and four-top-quark measurements in pp collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt></mml:math> = 13 TeV with the ATLAS detector
-Search for pair production of boosted Higgs bosons via vector-boson fusion in the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:mi>b</mml:mi><mml:mover accent="true"><mml:mrow><mml:mi>b</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="false">¯</mml:mo></mml:mrow></mml:mover><mml:mi>b</mml:mi><mml:mover accent="true"><mml:mrow><mml:mi>b</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="false">¯</mml:mo></mml:mrow></mml:mover></mml:math> final state using pp collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si127.svg"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mn>13</mml:mn><mml:mspace width="0.25em"/><mml:mtext>TeV</mml:mtext></mml:math> with the ATLAS detector
+Constraint on the total width of the Higgs boson from Higgs boson and four-top-quark measurements in pp collisions at s = 13 TeV with the ATLAS detector
+Search for pair production of boosted Higgs bosons via vector-boson fusion in the bb¯bb¯ final state using pp collisions at s=13TeV with the ATLAS detector
 Band Tones: Auditory Stream Segregation with Alternating Frequency Bands
 Search for pair-produced higgsinos decaying via Higgs or Z bosons to final states containing a pair of photons and a pair of b-jets with the ATLAS detector
 Evolution of the two-neutron configuration from 11Li to 13Li
-Measurement of top-quark pair production in association with charm quarks in proton–proton collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mn>13</mml:mn></mml:math> TeV with the ATLAS detector
+Measurement of top-quark pair production in association with charm quarks in proton–proton collisions at s=13 TeV with the ATLAS detector
 Search for a new scalar decaying into new spin-1 bosons in four-lepton final states with the ATLAS detector
 Climbing to the Top of the ATLAS 13 TeV data
 Construction of a screening system for lipid-derived radical inhibitors and validation of hit compounds to target retinal and cerebrovascular diseases
@@ -11151,7 +11151,7 @@ Bongkrekic acid inhibits 2-deoxygulcose-induced apoptosis, leading to enhanced c
 Characterising the Higgs boson with ATLAS data from the LHC Run-2
 Abundance and potential sources of floating polystyrene foam macro- and microplastics around Japan
 Small microplastic ingestion by the calanoid Centropages furcatus in the Gulf of Thailand
-Combination of searches for singly and doubly charged Higgs bosons produced via vector-boson fusion in proton–proton collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mn>13</mml:mn></mml:math> TeV with the ATLAS detector
+Combination of searches for singly and doubly charged Higgs bosons produced via vector-boson fusion in proton–proton collisions at s=13 TeV with the ATLAS detector
 表面冷間加工処理を施したAC4CHアルミニウム合金鋳物の熱機械疲労特性
 Improving the efficiency of CO2 methanation using a combination of plasma and molecular sieves
 Influence of monsoon seasonality and tidal cycle on microplastics presence and distribution in the Upper Gulf of Thailand
@@ -11179,19 +11179,19 @@ Material-level experimental study on utilising ionic liquid/graphene composites 
 Worldwide trends in diabetes prevalence and treatment from 1990 to 2022: a pooled analysis of 1108 population-representative studies with 141 million participants
 Three‐Dimensional Electrical Resistivity Structure Beneath a Strain Concentration Area in the Back‐Arc Side of the Northeastern Japan Arc
 Intelligent IC Design: The Convergence of AI and Semiconductor Engineering
-Near‐Source Waveform Modeling to Estimate Shallow Crustal Attenuation and Radiated Energy of <i>M</i><sub>w</sub> 2.0–4.5 Earthquakes
+Near‐Source Waveform Modeling to Estimate Shallow Crustal Attenuation and Radiated Energy of M<sub>w</sub> 2.0–4.5 Earthquakes
 Development of an Aerosol Assimilation System Using a Global Non‐Hydrostatic Model, a 2‐Dimensional Variational Method, and Multiple Satellite‐Based Aerosol Products
 On-axis sputtering fabrication of Tm3Fe5O12 film with perpendicular magnetic anisotropy
 Pneumococcal vaccination coverage and vaccination-related factors among older adults in Japan: LIFE Study
 Revisit the Upper Portion of the Japan Sea Proper Water: A Recent Structural Change and Freshening in the Formation Area
 Genetic variation in heading dates and phenological parameters of Myanmar rice
-Haplotype-resolved <i>de novo</i> genome assemblies of four coniferous tree species
+Haplotype-resolved de novo genome assemblies of four coniferous tree species
 Effects of integrated hospital treatment on the default mode, salience, and frontal-parietal networks in anorexia nervosa: A longitudinal resting-state functional magnetic resonance imaging study
 Enhanced Sporadic E Layer and Its Perturbations During the 2022 Hunga Volcanic Eruption
 Ancient Tsunami Records in the Viscous Remanent Magnetization of Reworked Boulders in the Kingdom of Tonga
 Association between decreases in serum uric acid levels and unfavorable outcomes after ischemic stroke: A multicenter hospital-based observational study
 Expected tracking performance of the ATLAS Inner Tracker at the High-Luminosity LHC
-Effect of nitrogen fixation enhancing type <i>SEN1</i> gene on soybean growth
+Effect of nitrogen fixation enhancing type SEN1 gene on soybean growth
 Revisiting Seismic Energy of Shallow Tremors: Amplifications Due To Site and Propagation Path Effects Near the Nankai Trough
 Sputter deposition of ZnO–AlN pseudo-binary amorphous alloys with tunable band gaps in the deep ultraviolet region
 Where Dust Comes From: Global Assessment of Dust Source Attributions With AeroCom Models
@@ -11203,13 +11203,13 @@ Monitoring tropical forest change using tree canopy cover time series obtained f
 Aberrant thalamocortical connectivity and shifts between the resting state and task state in patients with schizophrenia
 An application of the graph approach to life-cycle optimisation of vehicle electrification
 Aging‐associated reduction of chromosomal histones in mammalian oocytes
-<i>In Memoriam</i> of Editor Jennifer L. Gannon
+In Memoriam of Editor Jennifer L. Gannon
 Artificial multiferroic heterostructures—electric field effects and their perspectives
 Emerging computational and machine learning methodologies for proton-conducting oxides: materials discovery and fundamental understanding
-Oral administration of <i>Porphyromonas gingivalis</i> to mice with diet-induced obesity impairs cognitive function associated with microglial activation in the brain
+Oral administration of Porphyromonas gingivalis to mice with diet-induced obesity impairs cognitive function associated with microglial activation in the brain
 S100a6 knockdown promotes the differentiation of dental epithelial cells toward the epidermal lineage instead of the odontogenic lineage
 The relationship between neoliberal belief and socio-political attitude in Japan: conservative psychological tendencies of neoliberals
-The complete mitochondrial genome of freshwater gammarid <i>Gammarus nipponensis</i> (Crustacea: Amphipoda: Gammaridae)
+The complete mitochondrial genome of freshwater gammarid Gammarus nipponensis (Crustacea: Amphipoda: Gammaridae)
 The <scp>NADPH</scp> oxidases <scp>DUOX1</scp> and <scp>DUOX2</scp> are sorted to the apical plasma membrane in epithelial cells via their respective maturation factors <scp>DUOXA1</scp> and <scp>DUOXA2</scp>
 Immunohistochemical p16 overexpression and Rb loss correlate with high‐risk human papillomavirus infection in endocervical adenocarcinomas
 Mid‐Latitude Study of Ionospheric Variation Over Iran Associated With Equatorial Ionization Anomaly (EIA), and Artificial Neural Networks Model Development
@@ -11235,9 +11235,9 @@ Sexual reproductive health and rights awareness among members of the Japan Socie
 Deer grazing drove an assemblage‐level evolution of plant dwarfism in an insular system
 Investigating the impact of x‐ray computed tomography imaging on soluble organic matter in the Murchison meteorite: Implications for Bennu sample analyses
 Spliceosome malfunction causes neurodevelopmental disorders with overlapping features
-Copy number variations in <scp><i>RNF216</i></scp> and postsynaptic membrane–associated genes are associated with bipolar disorder: a case‐control study in the Japanese population
+Copy number variations in <scp>RNF216</scp> and postsynaptic membrane–associated genes are associated with bipolar disorder: a case‐control study in the Japanese population
 Tracheomediastinal fistula induced by concurrent chemoradiotherapy in <scp>small cell</scp> lung cancer: A case report and literature review
-Cryptic cytoplasmic male sterility‐causing gene in the mitochondrial genome of common <i>japonica</i> rice
+Cryptic cytoplasmic male sterility‐causing gene in the mitochondrial genome of common japonica rice
 Beam-induced backgrounds measured in the ATLAS detector during local gas injection into the LHC beam vacuum
 The Nr4a family regulates intrahepatic Treg proliferation and liver fibrosis in MASLD models
 Additional Cover
@@ -11249,7 +11249,7 @@ Sensor response and radiation damage effects for 3D pixels in the ATLAS IBL Det
 Hydrogen in magnetite from asteroid Ryugu
 Tissue‐specific functions of <scp>MSCs</scp> are linked to homeostatic muscle maintenance and alter with aging
 Coevolution of phyllosilicate, carbon, sulfide, and apatite in Ryugu's parent body
-Allogeneic Hematopoietic Stem Cell Transplantation for Acute Myeloid Leukemia With a Germline <i>DDX41</i> Mutation
+Allogeneic Hematopoietic Stem Cell Transplantation for Acute Myeloid Leukemia With a Germline DDX41 Mutation
 In vitro immuno‐prevention of nitration/dysfunction of myogenic stem cell activator <scp>HGF</scp>, towards developing a strategy for age‐related muscle atrophy
 Effects of Pieris japonica (Ericaceae) dominance on cool temperate forest altered-understory environments and soil microbiomes in Southern Japan
 Ensemble dynamics and information flow deduction from whole-brain imaging data
@@ -11258,12 +11258,12 @@ Development of a data platform for monitoring personal health records in Japan: 
 Hot‐Antisolvent Assisted Morphological Regulation of Perovskites for Semitransparent Photovoltaics Employing Hot‐Pressing Approach
 Association between abdominal adiposity and clinical outcomes in patients with acute ischemic stroke
 Disequilibrium oxygen isotope distribution among aqueously altered minerals in Ryugu asteroid returned samples
-Labeling and sorting of avian primordial germ cells utilizing <scp><i>Lycopersicon Esculentum</i></scp> lectin
+Labeling and sorting of avian primordial germ cells utilizing <scp>Lycopersicon Esculentum</scp> lectin
 The Earth atmosphere‐like bulk nitrogen isotope composition obtained by stepwise combustion analyses of Ryugu return samples
 A comprehensive study of apatite grains in Ryugu rock fragments
 Association between physical performance and bone mass in community-dwelling postmenopausal Japanese women: The Unzen study
 Body temperature in the acute phase and clinical outcomes after acute ischemic stroke
-Probiotic Chocolate Containing <i>Lactobacillus plantarum</i> Dad‐13 Alters the Gut Microbiota Composition of Undernourished Children in Lombok: A Randomized Double‐Blind Trial
+Probiotic Chocolate Containing Lactobacillus plantarum Dad‐13 Alters the Gut Microbiota Composition of Undernourished Children in Lombok: A Randomized Double‐Blind Trial
 Ionized acrylamide-based copolymer / terpolymer hydrogels for recovery of positive and negative heavy metal ions
 A new scoring system with simple preoperative parameters as predictors of early recurrence of pancreatic ductal adenocarcinoma
 Changing trends in traumatic spinal cord injury in an aging society: Epidemiology of 1152 cases over 15 years from a single center in Japan
@@ -11619,7 +11619,7 @@ Persistent intracranial hyper-inflammation in ruptured cerebral aneurysm after C
 Effects of the COVID-19 pandemic on the rates of adverse birth outcomes and fetal mortality in Japan: an analysis of national data from 2010 to 2022
 Reoperation for chronological complete dislodgement of the bioprosthetic aortic valve into the left ventricle due to Takayasu arteritis
 Phase II Trial of Adjuvant S-1 Following Neoadjuvant Chemotherapy and Surgery in Patients with Locally Advanced Esophageal Squamous Cell Carcinoma: The PIECE Trial
-<i>In Situ</i> Raman Hyperspectral Analysis of Microbial Colonies for Secondary Metabolites Screening
+In Situ Raman Hyperspectral Analysis of Microbial Colonies for Secondary Metabolites Screening
 Investigation of the subsurface structure at the target site in Kumamoto, Japan, and the distributed data of the blind prediction exercise: report for the experiments for the 6th international symposium on effects of surface geology on seismic motion
 Simulation study of atmosphere–ionosphere variations driven by the eruption of Hunga Tonga-Hunga Ha’apai on 15 January 2022
 Stress field in northeastern Japan and its relationship with faults of recent earthquakes
@@ -11648,14 +11648,14 @@ Percutaneous transluminal angioplasty for persistent primitive hypoglossal arter
 Comparison design and evaluation power in cohort and self-controlled case series designs for post-authorization vaccine safety studies
 Compatibility of Halide Electrolytes in Solid-State Li–S Battery Cathodes
 Measurement of the associated production of a top-antitop-quark pair and a Higgs boson decaying into a $$b\bar{b}$$ pair in pp collisions at $$\sqrt{s}=13$$ TeV using the ATLAS detector at the LHC
-Azetidines Kill Multidrug-Resistant <i>Mycobacterium tuberculosis</i> without Detectable Resistance by Blocking Mycolate Assembly
+Azetidines Kill Multidrug-Resistant Mycobacterium tuberculosis without Detectable Resistance by Blocking Mycolate Assembly
 Electron Transport in Soft-Crystalline Thin Films of Perylene Diimide Substituted with Swallow-Tail Terminal Alkyl Chains
 Exploring the Impact of Linkage Structure in Ferroelectric Nematic and Smectic Liquid Crystals
 Enhanced visualization of vessels in submucosa by amber red color imaging in colonic endoscopic submucosal dissection
 Antral early gastric neoplasm with severe oral scarring successfully treated by endoscopic submucosal dissection using retroflex approach and a novel, thin therapeutic endoscope
 Primary Care EHR data on Social Determinants of Health: Quality and Fitness for Purpose in Precision/Personalised Medicine
 Low-Temperature Microwave-Assisted Hydrothermal Synthesis of Pb<sub>2</sub>Ti<sub>2</sub>O<sub>5.4</sub>F<sub>1.2</sub> Photocatalyst for Improved H<sub>2</sub> Evolution under Visible Light
-Na<i>M</i>Cl<sub>6</sub> (<i>M</i> = Nb and Ta): A New Class of Sodium-Conducting Halide-Based Solid Electrolytes
+NaMCl<sub>6</sub> (M = Nb and Ta): A New Class of Sodium-Conducting Halide-Based Solid Electrolytes
 Cyclopropanation Using Electrons Derived from Hydrogen: Reaction of Alkenes and Hydrogen without Hydrogenation
 Factors contributing to transient-induced fading: Examining the impact of luminance contrasts and subjective contours
 Friend–Enemy Divided Thinking from the Perspective of Intergroup Conflict: Relationship with International Attitudes and Conspiracy Beliefs
@@ -11671,7 +11671,7 @@ Improvement of the nylon (N)-glass fiber (G) reinforced polyester composite prop
 ECCD system design activities for JA DEMO
 Correction To: Root PRR7 Improves the Accuracy of the Shoot Circadian Clock through Nutrient Transport
 Autoregulation of blood flow drives early hypotension in a rat model of systemic inflammation induced by bacterial lipopolysaccharide
-Draft Genome of Akame (<i>Lates Japonicus</i>) Reveals Possible Genetic Mechanisms for Long-Term Persistence and Adaptive Evolution with Low Genetic Diversity
+Draft Genome of Akame (Lates Japonicus) Reveals Possible Genetic Mechanisms for Long-Term Persistence and Adaptive Evolution with Low Genetic Diversity
 Biventricular repair using subvalvular techniques for unbalanced atrioventricular septal defect
 Density of fresh wall of acute aortic dissection with synchrotron-based x-ray phase tomography
 Calculation on Current Distributions among Transposed Three- and Six-parallel Conductors in Superconducting Armature Coils for Superconducting Synchronous Motors
@@ -11679,10 +11679,10 @@ Electromagnetic design for high power density of fully superconducting synchrono
 UAV trajectory planning in NOMA-aided UAV-mounted RIS networks: A budgeted Multi-armed bandit approach
 A case study on the impact of geomagnetic storms events with Dst ≤ 350nT in May 2024
 Mechanism of generating collisionless shock in magnetized gas plasma driven by laser-ablated target plasma
-Centerline shock reflection for supersonic internal flows in the <i>non-Rankine-Hugoniot</i> zone: Overexpanded supersonic microjets
+Centerline shock reflection for supersonic internal flows in the non-Rankine-Hugoniot zone: Overexpanded supersonic microjets
 AC susceptibility measurement of magnetic nanoparticles using an optically pumped magnetometer and a flux transformer
 Estimating the location of the hook-wire used in breast-conserving surgery using a magnetometer
-The androgen receptor in mesenchymal progenitors regulates skeletal muscle mass via <i>Igf1</i> expression in male mice
+The androgen receptor in mesenchymal progenitors regulates skeletal muscle mass via Igf1 expression in male mice
 Identification of α-galactosylceramide as an endogenous mammalian antigen for iNKT cells
 Co, Sc, and Ni enrichment in the Cagdianao nickel laterite deposit, Dinagat Islands, Philippines
 Impact of the distance of spread through air spaces in non-small cell lung cancer
@@ -11690,58 +11690,58 @@ SuperSIM: a comprehensive benchmarking framework for neural networks using super
 Geochemical signatures of the Taku schist, Peninsular Malaysia: implications for sedimentary protoliths and tectonic setting
 The impact of second transurethral resection on survival outcomes in patients with non-muscle-invasive bladder cancer treated with bacillus Calmette–Guérin therapy
 Low CD86 expression is a predictive biomarker for clinical response to the therapeutic human papillomavirus vaccine IGMKK16E7: results of a post hoc analysis
-Suppression of neuropathic pain in the circadian clock–deficient <i>Per2m/m</i> mice involves up-regulation of endocannabinoid system
+Suppression of neuropathic pain in the circadian clock–deficient Per2m/m mice involves up-regulation of endocannabinoid system
 Type I interferon promotes the fate of Toll-like receptor 9–stimulated follicular B cells to plasma cell differentiation
-Combination of searches for singly produced vectorlike top quarks in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
+Combination of searches for singly produced vectorlike top quarks in pp collisions at s=13  TeV with the ATLAS detector
 Substrate binding and catalytic mechanism of UDP-α-<scp>D-</scp>galactofuranose: β-galactofuranoside β-(1→5)-galactofuranosyltransferase GfsA
 Input optics systems of the KAGRA detector during O3GK
 Nambu Bracket for 3D Ideal Fluid Dynamics and Magnetohydrodynamics
-Search for the jet-induced diffusion wake in the quark-gluon plasma via measurements of jet-track correlations in photon-jet events in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>Pb</mml:mi><mml:mo>+</mml:mo><mml:mi>Pb</mml:mi></mml:mrow></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace width="0.16em"/><mml:mi>TeV</mml:mi></mml:mrow></mml:math> with the ATLAS detector
-Pseudo-Nambu-Goldstone dark matter in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>S</mml:mi><mml:mi>U</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>7</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:math> grand unification
-Search for pair-produced vectorlike quarks coupling to light quarks in the lepton plus jets final state using 13 TeV <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions with the ATLAS detector
+Search for the jet-induced diffusion wake in the quark-gluon plasma via measurements of jet-track correlations in photon-jet events in Pb+Pb collisions at sNN=5.02TeV with the ATLAS detector
+Pseudo-Nambu-Goldstone dark matter in SU(7) grand unification
+Search for pair-produced vectorlike quarks coupling to light quarks in the lepton plus jets final state using 13 TeV pp collisions with the ATLAS detector
 Evaluation of PTV margin in CBCT-based online adaptive radiation therapy for gastric mucosa-associated lymphoid tissue lymphoma
 Droplet digital polymerase chain reaction to measure heteroplasmic m.3243A&amp;gt;G mitochondrial mutations
-Search for triple Higgs boson production in the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mn>6</mml:mn><mml:mi>b</mml:mi></mml:math> final state using <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
+Search for triple Higgs boson production in the 6b final state using pp collisions at s=13  TeV with the ATLAS detector
 Observations of spiral and streamer on a candidate proto-brown dwarf
 Synthesis of 2′-formamidonucleoside phosphoramidites for suppressing the seed-based off-target effects of siRNAs
-Lattice Realization of the Axial <i>U</i>(1) Noninvertible Symmetry
-Action of the Axial<i>U</i>(1) Non-Invertible Symmetry on the ’t Hooft Line Operator: A Lattice Gauge Theory Study
-Production Cross-Sections of Residual Nuclides from 93Zr + <i>p</i> at 27 MeV/nucleon
-Action of the Axial <i>U</i>(1) Noninvertible Symmetry on the ’t Hooft Line Operator: A Simple Argument
+Lattice Realization of the Axial U(1) Noninvertible Symmetry
+Action of the AxialU(1) Non-Invertible Symmetry on the ’t Hooft Line Operator: A Lattice Gauge Theory Study
+Production Cross-Sections of Residual Nuclides from 93Zr + p at 27 MeV/nucleon
+Action of the Axial U(1) Noninvertible Symmetry on the ’t Hooft Line Operator: A Simple Argument
 Microwave susceptibility analysis of ultrafast moment dynamics in a multicore magnetic nanoparticle system
 Induced moduli oscillation by radiation and space expansion in a higher-dimensional model
-Search for decays of the Higgs boson into a pair of pseudoscalar particles decaying into <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>b</mml:mi><mml:mover accent="true"><mml:mi>b</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover><mml:msup><mml:mi>τ</mml:mi><mml:mo>+</mml:mo></mml:msup><mml:msup><mml:mi>τ</mml:mi><mml:mo>−</mml:mo></mml:msup></mml:math> using <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
-Measurement of photonuclear jet production in ultraperipheral <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>Pb</mml:mi><mml:mo>+</mml:mo><mml:mi>Pb</mml:mi></mml:mrow></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>NN</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
-Measurement of single top-quark production in association with a <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>W</mml:mi></mml:math> boson in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
+Search for decays of the Higgs boson into a pair of pseudoscalar particles decaying into bb¯τ+τ− using pp collisions at s=13  TeV with the ATLAS detector
+Measurement of photonuclear jet production in ultraperipheral Pb+Pb collisions at sNN=5.02  TeV with the ATLAS detector
+Measurement of single top-quark production in association with a W boson in pp collisions at s=13  TeV with the ATLAS detector
 Impact of tumor-treating fields on the survival of Japanese patients with newly diagnosed glioblastoma: A multicenter, retrospective cohort study
 Pseudo-observation of spiral galaxies in the radio band to verify depolarization models
 デザイン手法の通時的変移とその表出的機能のデザイン論上の位置付け :  戦災復興期に至る樹木を用いた「みち空間」デザインに着目して
-Magicity versus Superfluidity around <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi mathvariant="normal">O</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>28</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math> viewed from the Study of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mmultiscripts><mml:mrow><mml:mi mathvariant="normal">F</mml:mi></mml:mrow><mml:mprescripts/><mml:none/><mml:mrow><mml:mn>30</mml:mn></mml:mrow></mml:mmultiscripts></mml:mrow></mml:math>
-Search for the nonresonant production of Higgs boson pairs via gluon fusion and vector-boson fusion in the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"> <mml:mi>b</mml:mi> <mml:mover accent="true"> <mml:mi>b</mml:mi> <mml:mo stretchy="false">¯</mml:mo> </mml:mover> <mml:msup> <mml:mi>τ</mml:mi> <mml:mo>+</mml:mo> </mml:msup> <mml:msup> <mml:mi>τ</mml:mi> <mml:mo>−</mml:mo> </mml:msup> </mml:math> final state in proton-proton collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> <mml:mo>=</mml:mo> <mml:mn>13</mml:mn> <mml:mtext> </mml:mtext> <mml:mtext> </mml:mtext> <mml:mi>TeV</mml:mi> </mml:math> with the ATLAS detector
-Search for charged Higgs bosons produced in top-quark decays or in association with top quarks and decaying via <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"> <mml:msup> <mml:mi>H</mml:mi> <mml:mo>±</mml:mo> </mml:msup> <mml:mo stretchy="false">→</mml:mo> <mml:msup> <mml:mi>τ</mml:mi> <mml:mo>±</mml:mo> </mml:msup> <mml:msub> <mml:mi>ν</mml:mi> <mml:mi>τ</mml:mi> </mml:msub> </mml:math> in 13 TeV <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"> <mml:mi>p</mml:mi> <mml:mi>p</mml:mi> </mml:math> collisions with the ATLAS detector
-Calibration of a soft secondary vertex tagger using proton-proton collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
+Magicity versus Superfluidity around O28 viewed from the Study of F30
+Search for the nonresonant production of Higgs boson pairs via gluon fusion and vector-boson fusion in the  b  b ¯   τ +   τ −   final state in proton-proton collisions at   s  = 13     TeV  with the ATLAS detector
+Search for charged Higgs bosons produced in top-quark decays or in association with top quarks and decaying via   H ±  →  τ ±   ν τ   in 13 TeV  p p  collisions with the ATLAS detector
+Calibration of a soft secondary vertex tagger using proton-proton collisions at s=13  TeV with the ATLAS detector
 Measurements of jet cross-section ratios in 13 TeV proton-proton collisions with ATLAS
-Search for Dark Matter Produced in Association with a Dark Higgs Boson in the <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>b</mml:mi><mml:mover accent="true"><mml:mrow><mml:mi>b</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="false">¯</mml:mo></mml:mrow></mml:mover></mml:mrow></mml:math> Final State Using <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> Collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math> with the ATLAS Detector
+Search for Dark Matter Produced in Association with a Dark Higgs Boson in the bb¯ Final State Using pp Collisions at s=13  TeV with the ATLAS Detector
 Turbulence Transition in Magnetically Confined Hydrogen and Deuterium Plasmas
-Nambu-Goldstone modes in magnetized <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msup><mml:mi>T</mml:mi><mml:mrow><mml:mn>2</mml:mn><mml:mi>n</mml:mi></mml:mrow></mml:msup></mml:math> extra dimensions
+Nambu-Goldstone modes in magnetized T2n extra dimensions
 Plasma Steroid Profiling Between Patients With and Without Diabetes Mellitus in Nonfunctioning Adrenal Incidentalomas
 UHRF1 is essential for proper cytoplasmic architecture and function of mouse oocytes and derived embryos
 Fast time-domain solution of the cochlear transmission line model in real-time applications
-Identification rate of <i>Legionella</i> species in non-purulent sputum culture is comparable to that in purulent sputum culture in <i>Legionella</i> pneumonia
-Search for heavy right-handed Majorana neutrinos in the decay of top quarks produced in proton-proton collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> with the ATLAS detector
-Observation of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>t</mml:mi><mml:mover accent="true"><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mo stretchy="false">¯</mml:mo></mml:mrow></mml:mover></mml:mrow></mml:math> Production in Pb+Pb Collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:msqrt><mml:mrow><mml:msub><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mi>NN</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math> with the ATLAS Detector
-Combination of Searches for Higgs Boson Pair Production in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> Collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:msqrt><mml:mrow><mml:mi>s</mml:mi></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math> with the ATLAS Detector
+Identification rate of Legionella species in non-purulent sputum culture is comparable to that in purulent sputum culture in Legionella pneumonia
+Search for heavy right-handed Majorana neutrinos in the decay of top quarks produced in proton-proton collisions at s=13  TeV with the ATLAS detector
+Observation of tt¯ Production in Pb+Pb Collisions at sNN=5.02  TeV with the ATLAS Detector
+Combination of Searches for Higgs Boson Pair Production in pp Collisions at s=13  TeV with the ATLAS Detector
 Mitochondrial translation failure represses cholesterol gene expression via Pyk2-Gsk3β-Srebp2 axis
 iMPAQT reveals that adequate mitohormesis from TFAM overexpression leads to life extension in mice
 A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids
 Modular symmetry of localized modes
 Hyperuricemia predicts increased cardiovascular events in patients with chronic coronary syndrome after percutaneous coronary intervention: A nationwide cohort study from Japan
 Effects of pH on the microarchitecture of carbonate apatite granules fabricated through a dissolution–precipitation reaction
-Disentangling Sources of Momentum Fluctuations in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>Xe</mml:mi><mml:mo>+</mml:mo><mml:mi>Xe</mml:mi></mml:mrow></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>Pb</mml:mi><mml:mo>+</mml:mo><mml:mi>Pb</mml:mi></mml:mrow></mml:math> Collisions with the ATLAS Detector
+Disentangling Sources of Momentum Fluctuations in Xe+Xe and Pb+Pb Collisions with the ATLAS Detector
 KIT-13, a novel plasmalogen derivative, attenuates neuroinflammation and amplifies cognition
 Multiple mutations of SARS-CoV-2 Omicron BA.2 variant orchestrate its virological characteristics
 Use of the index of pulmonary vascular disease for predicting long-term outcome of pulmonary arterial hypertension associated with congenital heart disease
-<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mn>4</mml:mn><mml:mi>f</mml:mi></mml:mrow></mml:math> electron temperature driven ultrafast electron localization
+4f electron temperature driven ultrafast electron localization
 Cellular and transcriptomic changes by the supplementation of aged rat serum in human pluripotent stem cell-derived myogenic progenitors
 Evaluation of functional group compatibility and development of reaction-accelerating additives in ammonium salt-accelerated hydrazinolysis of amides
 Oral-to-rectum microbial transmission in orthopedic patients without a history of intestinal disorders
@@ -11757,13 +11757,13 @@ FcRY is a key molecule controlling maternal blood IgY transfer to yolks during e
 Molecular and structural insights into SARS-CoV-2 evolution: from BA.2 to XBB subvariants
 Imaging Quantum Interference in a Monolayer Kitaev Quantum Spin Liquid Candidate
 Analysis of B-cell receptor repertoire to evaluate the immunogenicity of SARS-CoV-2 RBD mRNA vaccine: MAFB-7256a (DS-5670d)
-Simultaneous Unbinned Differential Cross-Section Measurement of Twenty-Four <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>Z</mml:mi><mml:mo>+</mml:mo><mml:mtext>jets</mml:mtext></mml:mrow></mml:math> Kinematic Observables with the ATLAS Detector
+Simultaneous Unbinned Differential Cross-Section Measurement of Twenty-Four Z+jets Kinematic Observables with the ATLAS Detector
 Possible involvement of Toll-like receptor 8-positive monocytes/macrophages in the pathogenesis of Sjögren’s disease
 Ontogenetic shifts in Symbiodiniaceae assemblages within cultured Acropora humilis across hatchery rearing and post-transplantation phases
 An awareness survey on childcare facilities and acoustic environment in Japan's residential areas
 Insights into epigenetic regulation of cyp19a via comparative analysis using the scombrid chub mackerel as model
 Interrupted mosaic speech revisited: Gain and loss in intelligibility by stretching
-Retraction for Huang et al., “Complete Genome Sequence of <i>Campylobacter coli</i> Bacteriophage CAM-P21”
+Retraction for Huang et al., “Complete Genome Sequence of Campylobacter coli Bacteriophage CAM-P21”
 Functions of mucosal associated invariant T cells in eye diseases
 Individual and population-level variability in HLA-DR associated immunogenicity risk of biologics used for the treatment of rheumatoid arthritis
 Bruton’s tyrosine kinase inhibition limits endotoxic shock by suppressing IL-6 production by marginal zone B cells in mice
@@ -11771,12 +11771,12 @@ Ten-year follow-up of infliximab treatment for uveitis in Behçet disease patien
 Sirolimus treatment for intractable lymphatic anomalies: an open-label, single-arm, multicenter, prospective trial
 Gut microbiome signatures associated with type 2 diabetes in obesity in Mongolia
 Diversity of Shiga toxin transducing phages in Escherichia coli O145:H28 and the different Shiga toxin 2 production levels associated with short- or long-tailed phages
-Complete genome sequence of <i>Lentilactobacillus buchneri</i> subsp. <i>silagei</i> MGR2-32 isolated from guinea grass silage in Okinawa, Japan
+Complete genome sequence of Lentilactobacillus buchneri subsp. silagei MGR2-32 isolated from guinea grass silage in Okinawa, Japan
 Neurophysiological markers of early cognitive decline in older adults: a mini-review of electroencephalography studies for precursors of dementia
 Unsupervised method for representation transfer from one brain to another
 Abnormal phase entrainment of low- and high-gamma-band auditory steady-state responses in schizophrenia
 Reduced resting-state functional connectivity between insula and inferior frontal gyrus and superior temporal gyrus in hoarding disorder
-Search for Magnetic Monopole Pair Production in Ultraperipheral <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>Pb</mml:mi><mml:mo>+</mml:mo><mml:mi>Pb</mml:mi></mml:mrow></mml:math> Collisions at <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:msqrt><mml:mrow><mml:msub><mml:mrow><mml:mi>s</mml:mi></mml:mrow><mml:mrow><mml:mi>NN</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.36</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:mrow></mml:math> with the ATLAS Detector at the LHC
+Search for Magnetic Monopole Pair Production in Ultraperipheral Pb+Pb Collisions at sNN=5.36  TeV with the ATLAS Detector at the LHC
 Severe pediatric acute encephalopathy syndromes related to SARS-CoV-2
 Spectral density-based clustering algorithms for complex networks
 Lead contamination in human milk affects infants’ language trajectory: results from a prospective cohort study
@@ -11970,7 +11970,7 @@ Risks of Dementia in a General Japanese Older Population With Preserved Ratio Im
 Local Yield Stress and Its Unusual Independence on Multi-axial Stress States during Lüders Deformation of Medium-Mn, High-strength Steel
 Viscosity Measurement of CaO–SiO<sub>2</sub>–Fe<sub>x</sub>O Foaming Slag at 1673 K
 Device-Free Indoor WLAN Localization With Distributed Antenna Placement Optimization and Spatially Localized Regression
-Measurement of off-shell Higgs boson production in the   <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow> <mml:msup> <mml:mi>H</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> <mml:mo>→</mml:mo> <mml:mi>Z</mml:mi> <mml:mi>Z</mml:mi> <mml:mo>→</mml:mo> <mml:mn>4</mml:mn> <mml:mi>ℓ</mml:mi> </mml:mrow> </mml:math>  decay channel using a neural simulation-based inference technique in 13 TeV <i>pp</i> collisions with the ATLAS detector
+Measurement of off-shell Higgs boson production in the      H ∗  → Z Z → 4 ℓ    decay channel using a neural simulation-based inference technique in 13 TeV pp collisions with the ATLAS detector
 Takedown and Reuse of a Posterior Septal Nasal Floor Mucosal Flap for Skull Base Reconstruction in a Revision Surgery for a Recurrent Pituitary Tumor
 Narrowing of the Parent Artery Angle Is Associated With Intracranial Aneurysm Growth
 The Impact of mHealth Education on Changing Menstrual Hygiene Management Knowledge and Practices Among School-Going Adolescent Girls in Rural Bangladesh: A Quasi-experimental Study Protocol
@@ -11996,7 +11996,7 @@ Effect of sand minerals on microbially induced carbonate precipitation by denitr
 Test and sensitivity analysis of base‐isolated steel frame with low‐friction spherical sliding bearings
 Epidemiology, risk factors and impact of cachexia on patient outcome: Results from the Japanese Lung Cancer Registry Study
 A case of primary orbital liposarcoma with dedifferentiated transformation from a well-differentiated form
-Oxygen vacancy-induced efficient hydrogen spillover in Ni<sub>17</sub>W<sub>3</sub>/WO<sub>3−<i>x</i></sub>/MoO<sub>3−<i>x</i></sub> for a superior pH-universal hydrogen evolution reaction
+Oxygen vacancy-induced efficient hydrogen spillover in Ni<sub>17</sub>W<sub>3</sub>/WO<sub>3−x</sub>/MoO<sub>3−x</sub> for a superior pH-universal hydrogen evolution reaction
 Natural Ventilation Technique: A Bibliometric Analysis of Research Trends
 Investigating the perceptions of career development as the Japanese regional quota medical students and graduates in A prefecture
 An evaluation of the commonly used portable medical sensors performance in comparison to clinical test results for telehealth systems
@@ -12179,17 +12179,17 @@ Surface Modification of NiFe Anode-Support for Thin-Film Solid-Oxide Fuel Cell
 Quantification of membrane protein diffusion on endothelial cell surfaces under shear stress using a photochromic fluorescent protein
 Effect of sintering additives on fabrication of silica porous glass structure
 Beyond Scores: A Modular RAG-Based System for Automatic Short Answer Scoring with Feedback
-Development and characterization of near-isogenic lines for brown planthopper resistance genes in the genetic background of <i>japonica</i> rice ‘Sagabiyori’
+Development and characterization of near-isogenic lines for brown planthopper resistance genes in the genetic background of japonica rice ‘Sagabiyori’
 Room-Temperature Direct Cu Semi-Additive Plating (SAP) Bonding for Chip-on-Wafer 3D Heterogenous Integration With μLED
-<i>In situ</i> electrochemical regeneration of active 1,4-NADH for enzymatic lactic acid formation <i>via</i> concerted functions on Pt-modified TiO<sub>2</sub>/Ti
-Detection and validation of QTLs for green stem disorder of soybean (<i>Glycine max</i> (L.) Merr.)
-Resistance haplotypes to green rice leafhopper (<i>Nephotettix cincticeps</i> Uhler) estimated in genome-wide association study in Myanmar <i>indica</i> rice landraces
+In situ electrochemical regeneration of active 1,4-NADH for enzymatic lactic acid formation via concerted functions on Pt-modified TiO<sub>2</sub>/Ti
+Detection and validation of QTLs for green stem disorder of soybean (Glycine max (L.) Merr.)
+Resistance haplotypes to green rice leafhopper (Nephotettix cincticeps Uhler) estimated in genome-wide association study in Myanmar indica rice landraces
 First synthesis of RuSn solid-solution alloy nanoparticles and their enhanced hydrogen evolution reaction activity
 Development of Flexible Multilayer Circuit Board Fabrication Technology by Combining Laser Micromachining with Platinum Foil and Microwelding for Biomedical Applications
 Paralleled SiC MOSFETs Circuit Breaker With a SiC MPS Diode for Avalanche Voltage Clamping
 Development of genomic and genetic resources facilitating molecular genetic studies on untapped Myanmar rice germplasms
 Analysis of Time-varying Brain Network Activity Using Functional Connectivity and Graph Theory during Memory Retrieval
-A genome-wide association study using Myanmar <i>indica</i> diversity panel reveals a significant genomic region associated with heading date in rice
+A genome-wide association study using Myanmar indica diversity panel reveals a significant genomic region associated with heading date in rice
 Effect of Heparin-conjugated Collagen Gel on the Formation of Hepatic Tissue by the Bottom-up Method Using Spheroids
 Determination of the critical electric field strength for therapeutic irreversible electroporation by using a three-dimensional cell culture model
 A thiomolybdate cluster for visible-light-driven hydrogen evolution: comparison of homogeneous and heterogeneous approaches
@@ -12200,7 +12200,7 @@ Raman spectroscopy to evaluate precision of oxygen isotope ratio in calcite
 Structural frustration effects by mixed alkali ions in ferroelectric Dion–Jacobson layered perovskites (Cs,Rb)NdNb<sub>2</sub>O<sub>7</sub>
 ナノ粒子チップを用いた液中の多分散ナノ粒子の高精度粒度分布計測
 生体関連錯体を複合化した粉体光触媒によるCO<sub>2</sub>還元反応
-Mechanistic studies of NO<sub><i>x</i></sub> reduction reactions involving copper complexes: encouragement of DFT calculations
+Mechanistic studies of NO<sub>x</sub> reduction reactions involving copper complexes: encouragement of DFT calculations
 Co-sintering a cathode material and garnet electrolyte to develop a bulk-type solid-state Li metal battery with wide electrochemical windows
 A membrane electrode assembly-type cell designed for selective CO production from bicarbonate electrolyte and air containing CO<sub>2</sub> mixed gas
 Effective design of PEGylated polyion complex (PIC) nanoparticles for enhancing PIC internalisation in cells utilising block copolymer combinations with mismatched ionic chain lengths
@@ -12208,7 +12208,7 @@ Photo-induced valence tautomerism and polarization switching in mononuclear coba
 Ultrasonic spraying of Ce(Mn,Fe)O<sub>2</sub> nanocatalysts onto a perovskite surface for highly efficient electrochemical CO<sub>2</sub> reduction
 Extending the accessibility of catalytic active sites through <scp>l</scp>-cysteine assisted sulfidation for promoting the hydrogen evolution reaction
 Phase control of solid-solution RuIn nanoparticles and their catalytic properties
-Fabrication of novel mixed matrix polymer electrolyte membranes (PEMs) intended for renewable hydrogen production <i>via</i> electrolysis application
+Fabrication of novel mixed matrix polymer electrolyte membranes (PEMs) intended for renewable hydrogen production via electrolysis application
 Ventilation Quality Assessment of Dual Courtyard Configuration
 Identification of lipid-specific proteins with high-density lipid-immobilized beads
 Radiative pumping in a strongly coupled microcavity filled with a neat molecular film showing excimer emission
@@ -12219,7 +12219,7 @@ Fast, efficient, narrowband room-temperature phosphorescence from metal-free 1,2
 Barium-doped iron nanoparticles supported on MgO as an efficient catalyst for ammonia synthesis under mild reaction conditions
 Molecular asymmetry and rigidification as strategies to activate and enhance thermally activated delayed fluorescence in deep-blue MR-TADF emitters
 Incidence and severity of pulmonary embolism in COVID-19 infection: Ancestral, Alpha, Delta, and Omicron variants
-Characterization of high Zr/Ce ratio Ba(Zr,Ce,Y)O <sub> 3− <i>δ</i> </sub> proton conductors: investigating the impact of Y on the properties of materials
+Characterization of high Zr/Ce ratio Ba(Zr,Ce,Y)O <sub> 3− δ </sub> proton conductors: investigating the impact of Y on the properties of materials
 Chirales Porphyrin durch Einbau in metallorganisches Gerüst erlaubt fotoleitende Filme für die Detektion von zirkular polarisiertem Licht
 HINODE study: haemophilia A in infancy and newborns – protocol for a prospective, multicentre, observational study evaluating the coagulation potential and safety of emicizumab prophylaxis
 Synthesis and structural design of microspheres comprising cellulose nanofibers and artificial lignin polymer by enzyme-mediated Pickering emulsion templating
@@ -12235,7 +12235,7 @@ Analysis of B‐cell receptor repertoire to evaluate immunogenicity of monovalen
 Psychological treatments for mental health symptoms associated with COVID‐19 infection: A scoping review
 Psychological treatments for the mental health symptoms among individuals infected with COVID-19: a scoping review protocol
 A multicenter, single‐group, open feasibility study of a new individual cognitive behavioral therapy program for adult Japanese patients with attention‐deficit/hyperactivity disorder: Study protocol
-A high power metal-supported protonic ceramic fuel cell using increased proton conductivity in the cathode functional layer of La <sub> 1− <i>x</i> </sub> Sr <sub> <i>x</i> </sub> ScO <sub>3</sub> (LSSc, <i>x</i> = 0.1–0.25)
+A high power metal-supported protonic ceramic fuel cell using increased proton conductivity in the cathode functional layer of La <sub> 1− x </sub> Sr <sub> x </sub> ScO <sub>3</sub> (LSSc, x = 0.1–0.25)
 Time elapsed from definitive diagnosis to surgery for osteonecrosis of the femoral head: a nationwide observational study in Japan
 New insight into designing a thick-sintered cathode for Li-ion batteries: the impact of excess lithium in LiCoO<sub>2</sub> on its electrode performance
 3D Pathways Enabling Highly‐Efficient Lithium Reservoir for Fast‐Charging Batteries
@@ -12290,7 +12290,7 @@ Clean and durable thick nanodiamond composite hard coating deposited on cemented
 A method for quantification of noise non-uniformity in computed tomography images: A computational study
 Efficient Direct Detection of Twin Single-Sideband Quadrature-Phase Shift Keying Using a Single Detector with Hierarchical Blind-Phase Search
 Textural-compositional evolution of pyrite and metal remobilization during low-grade metamorphism of metapelite: Contribution to gold mineralization in the Luk Ulo Complex, Central Java, Indonesia
-Impact of <i>TP53</i>‐induced glycolysis and apoptosis regulator on malignant activity and resistance to ferroptosis in intrahepatic cholangiocarcinoma
+Impact of TP53‐induced glycolysis and apoptosis regulator on malignant activity and resistance to ferroptosis in intrahepatic cholangiocarcinoma
 All-in-one bimodal DNA and RNA next-generation sequencing panel for integrative diagnosis of glioma
 Global evaluation of the natural environment and household income for sustainable development
 A simultaneous EEG-fNIRS dataset of the visual cognitive motivation study in healthy adults
@@ -12323,7 +12323,7 @@ Development of Machine Learning Prediction Models for Self-Extubation After Deli
 Performance Evaluation of Commonly Used Portable Hemoglobin Sensors in Comparison to Clinical Test Results
 Unexpected risk factors of pathological hikikomori during the <scp>COVID</scp>‐19 pandemic among working adults initially without social isolation: A longitudinal online survey
 Homogenization of word relationships in schizophrenia: Topological analysis of cortical semantic representations
-2 <i>n</i><sup>2</sup>-inequality for <i>cA</i><sub>1</sub> points and applications to birational rigidity
+2 n<sup>2</sup>-inequality for cA<sub>1</sub> points and applications to birational rigidity
 Facilitating Ulvan Extraction from Ulva lactuca via Deep Eutectic Solvent and Peracetic Acid Treatment
 Roles of pore architecture of artificial bone grafts in invasion competition between bone and fibrous tissue and orientation of regenerated bone
 Cholesterol synthesis is essential for the growth of liver metastasis‐prone colorectal cancer cells
@@ -12340,7 +12340,7 @@ Simple and Rapid HPLC-ICP-MS Method for the Simultaneous Determination of Cr(III
 HER2陽性進行胃癌切除後2年で単独脳転移を呈した1例
 Haploinsufficiency of Cnot3 Aggravates Acid-Induced Acute Lung Injury Likely Through Transcriptional and Post-Transcriptional Upregulation of Pro-Inflammatory Genes
 Ionic liquid-mediated ethosome for transdermal delivery of insulin
-Resection of DNA double-strand breaks activates Mre11–Rad50–Nbs1- and Rad9–Hus1–Rad1-dependent mechanisms that redundantly promote ATR checkpoint activation and end processing in <i>Xenopus</i> egg extracts
+Resection of DNA double-strand breaks activates Mre11–Rad50–Nbs1- and Rad9–Hus1–Rad1-dependent mechanisms that redundantly promote ATR checkpoint activation and end processing in Xenopus egg extracts
 Freezing delay of water droplets in a vacuum caused by polyol addition
 Deep learning model to diagnose cardiac amyloidosis from haematoxylin/eosin-stained myocardial tissue
 Exploring the tumor microenvironment of colorectal cancer patients post renal transplantation by single‐cell analysis
@@ -12388,20 +12388,20 @@ Serum soluble triggering receptor expressed on myeloid cells‐2 was not altered
 Effect of perioperative oral care on postoperative infections in patients with cancer: A systematic review and meta‐analysis
 Impacts of climate change on the transcriptional dynamics and timing of bud dormancy release in Yoshino‐cherry tree
 Postoperative Proliferation Detection in Eyes Treated for Rhegmatogenous Retinal Detachment by WideField OCT Angiography
-The role of <i>FIONA1</i> in alternative splicing and its effects on flowering regulation in <i>Arabidopsis thaliana</i>
+The role of FIONA1 in alternative splicing and its effects on flowering regulation in Arabidopsis thaliana
 Ocular and Serum Profiles of Inflammatory Molecules Associated With Retinitis Pigmentosa
 Life Course Epidemiology of Hip Osteoarthritis in Japan
 Real‐time fundus reconstruction and intraocular mapping using an ophthalmic endoscope
 Electrical Polarity Modulation in V‐Doped Monolayer WS<sub>2</sub> for Homogeneous CMOS Inverters
-Internal strain-driven bond manipulation and band engineering in Bi<sub>2−<i>x</i></sub>Sb<sub><i>x</i></sub>YO<sub>4</sub>Cl photocatalysts with triple fluorite layers
+Internal strain-driven bond manipulation and band engineering in Bi<sub>2−x</sub>Sb<sub>x</sub>YO<sub>4</sub>Cl photocatalysts with triple fluorite layers
 Augmented use of L-asparaginase markedly improves AYA ALL outcomes: FBMTG prospective MRD2014 study
-Cyclo[4]pyrrole with <i>α</i>–<i>β</i> direct linkages
+Cyclo[4]pyrrole with α–β direct linkages
 Detailed structural analyses and viscoelastic properties of nano-fibrillated bacterial celluloses
 Microwave-enhanced catalytic conversion of fatty acid ester to olefins by Na-ZSM-5
 Living Hybrid Exciton Materials: Enhanced Fluorescence and Chiroptical Properties in Living Supramolecular Polymers with Strong Frenkel/Charge‐Transfer Exciton Coupling
 Tumor‐derived insulin‐like growth factor‐binding protein‐1 contributes to resistance of hepatocellular carcinoma to tyrosine kinase inhibitors
 Gasification Removal Behaviour of Phosphorus Compounds from High‐Phosphorous Iron Ore
-Responder analysis of <scp><i>keishibukuryogan</i></scp> for the symptoms of <scp><i>Yusho</i></scp> certified patients
+Responder analysis of <scp>keishibukuryogan</scp> for the symptoms of <scp>Yusho</scp> certified patients
 Development of sexual dimorphism of skeletal muscles through the adrenal cortex, caused by androgen-induced global gene suppression
 Overstretching alveolar epithelial type II cells decreases surfactant secretion via actin polymerization and intracellular trafficking alteration
 Real-world clinical practices for spontaneous urticaria and angioedema in Japan: A nation-wide cross-sectional web questionnaire survey
@@ -12436,7 +12436,7 @@ Radiation-training system with a custom survey-meter mock-up in a browser-based 
 Evaluation of local erosion and deposition on the W-monoblock of JA-DEMO divertor
 Photoluminescence and scintillation properties of rare earth doped Lu2O3 single crystal grown by floating zone method
 Multiple isotopic dating constraints on diverse W metallogeny in the Baiyunxian ore field, South China
-Remarks on the smoothing effect of the heat semigroup on <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si11.svg" display="inline" id="d1e23"><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mi>B</mml:mi></mml:mrow><mml:mrow><mml:mo>̇</mml:mo></mml:mrow></mml:mover><mml:mi>s</mml:mi><mml:mi>p</mml:mi><mml:mo>,</mml:mo><mml:mi>∞</mml:mi></mml:mrow></mml:math> (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si12.svg" display="inline" id="d1e42"><mml:mrow><mml:mi mathvariant="double-struck">R</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:math>)
+Remarks on the smoothing effect of the heat semigroup on Ḃsp,∞ (Rn)
 Impact of heart failure severity and major bleeding events after percutaneous coronary intervention on subsequent major adverse cardiac events
 Complexity of the 2016 M 7.8 Kaikōura, New Zealand, earthquake from seismic observation: Inferences of overpressured fluid involvement
 A study on the future cyclone characteristics and its associated storm surge along the Bangladesh coast
@@ -12523,7 +12523,7 @@ Unique magnetic transition process demonstrating the effectiveness of bond perco
 Cancer risk assessment of premalignant breast tissues from patients with BRCA mutations by genome profiling
 Curation protocol of Phobos sample returned by Martian Moons eXploration
 Incipient space weathering on asteroid 162173 Ryugu recorded by pyrrhotite
-A case of inflammatory myofibroblastic tumor harboring <scp><i>EML4‐ALK</i></scp> fusion with a brain metastasis responding to alectinib
+A case of inflammatory myofibroblastic tumor harboring <scp>EML4‐ALK</scp> fusion with a brain metastasis responding to alectinib
 A phase <scp>II</scp> study of weekly carboplatin and concurrent radiotherapy in older adults with locally advanced non‐small cell lung cancer (<scp>LOGIK1902</scp>)
 Scintillation Light Yields of Tb-doped SiO_2 Glasses
 Validity of laparoscopic surgery for lower gastrointestinal perforations
@@ -12571,17 +12571,17 @@ A micro-disc-based multiplex method for monitoring emerging SARS-CoV-2 variants 
 The effect of aging and asymmetrical hearing on speech discrimination
 Adjustment of stem anteversion using tapered cone stem in total hip arthroplasty
 Yield and Photosynthesis Related to Growth Forms of Two Strawberry Cultivars in a Plant Factory with Artificial Lighting
-Defects in the <i>H3t</i> Gene Cause an Increase in Leydig Cells With Impaired Spermatogenesis in Mice
+Defects in the H3t Gene Cause an Increase in Leydig Cells With Impaired Spermatogenesis in Mice
 Label-free live cell recognition and tracking for biological discoveries and translational applications
 Photocatalytic Substrate Oxidation Catalyzed by a Ruthenium(II) Complex with a Phenazine Moiety as the Active Site Using Dioxygen as a Terminal Oxidant
 Impact of air pollution on human morality: A multinational perspective
 Sleep on it: exploring the psychology of sleep amidst contemporary challenges
 Automated chest CT three-dimensional quantification of body composition: adipose tissue and paravertebral muscle
 PdRu Bimetallic Nanoparticles/Metal–Organic Framework Composite through Supercritical CO<sub>2</sub>–Assisted Immobilization
-Frequent nonhomologous replacement of replicative helicase loaders by viruses in <i>Vibrionaceae</i>
+Frequent nonhomologous replacement of replicative helicase loaders by viruses in Vibrionaceae
 Spontaneous assembly of condensate networks during the demixing of structured fluids
 Mechanism of sensory perception unveiled by simultaneous measurement of membrane voltage and intracellular calcium
-PRMT1 Sustains <i>De Novo</i> Fatty Acid Synthesis by Methylating PHGDH to Drive Chemoresistance in Triple-Negative Breast Cancer
+PRMT1 Sustains De Novo Fatty Acid Synthesis by Methylating PHGDH to Drive Chemoresistance in Triple-Negative Breast Cancer
 TAK1 Promotes an Immunosuppressive Tumor Microenvironment through Cancer-Associated Fibroblast Phenotypic Conversion in Pancreatic Ductal Adenocarcinoma
 Donor-only substituted benzene achieves thermally activated delayed fluorescence
 A van der Waals porous crystal featuring conformational flexibility and permanent porosity for ultrafast water release
@@ -12590,7 +12590,7 @@ Thrombospondin-1 is an endogenous substrate of cereblon responsible for immunomo
 A Learning Program for Treatment Recommendations by Molecular Tumor Boards and Artificial Intelligence
 Sex Differences in Long-Term Outcomes in Patients With Chronic Coronary Syndrome After Percutaneous Coronary Intervention　― Insights From a Japanese Real-World Database Using a Storage System ―
 Self-Sufficient Production of Lunar Regolith Gravels on the Moon by Ultrarapid Microwave Sintering
-Accelerating Sulfated Polysaccharides Extraction from Fast-Growing <i>Ulva</i> Green Seaweed by Frequency-Controlled Microwaves
+Accelerating Sulfated Polysaccharides Extraction from Fast-Growing Ulva Green Seaweed by Frequency-Controlled Microwaves
 Graphite Sheet-Assisted Laser Desorption Ionization-Mass Spectrometry for Small Organic Compound Analysis
 Determinants of pro-environmental behaviour: effects of socioeconomic, subjective, and psychological well-being factors from 37 countries
 Next-generation phylogeography reveals unanticipated population history and climate and human impacts on the endangered floodplain bitterling (Acheilognathus longipinnis)
@@ -12623,7 +12623,7 @@ Impact of the Coronavirus Disease 2019 (COVID-19) Pandemic on the Severity and t
 Capturing temperature changes on the ocular surface along with estrus and ovulation using infrared thermography in Japanese Black cows
 Suppressing fatigue crack growth owing to welded joints of duplex stainless steel subjected to multiple high-density pulsed electric currents
 Quantitative evaluation of dislocation density in SUS316L utilizing non-contact microwave reflection method
-Enhanced disease resistance against <i>Botrytis cinerea</i> by strigolactone-mediated immune priming in <i>Arabidopsis thaliana</i>
+Enhanced disease resistance against Botrytis cinerea by strigolactone-mediated immune priming in Arabidopsis thaliana
 Determination of Microscopic Strain Distribution in the Martensitic Transformation of Fe-31Ni Alloy Plates Using the Micro-grid Marker Method
 Clinicopathologic Features of Adult-onset Still&apos;s Disease Complicated by Severe Liver Injury
 Elevating fatigue life in nickel-based superalloys through suppression of persistent slip bands/markings via high-density pulsed electric current treatment
@@ -12632,7 +12632,7 @@ Interstitial Pneumonia Associated with Nodal T-follicular Helper Cell Lymphoma
 Effects of considering preferential diffusion and flame stretch in FGM method for numerical simulations of hydrogen/air flames
 Predictions of soot formation in burner-stabilized stagnation flames using various reaction mechanisms
 Parallel-motion-type eddy current damper model of ring magnet and conducting disk
-Overview of Hydrogen Effects on <i>γ</i>−<i>ε</i> Martensitic Transformation in Steels
+Overview of Hydrogen Effects on γ−ε Martensitic Transformation in Steels
 A study on precise estimation of laminar burning velocity of lean hydrogen-air premixed flame (Effect of species diffusion models)
 Molecular dynamics study of nanostructured polycrystalline CoCrCuFeNi high entropy alloy concerning temperature dependence of deformation-induced phase transformation
 Apparent Viscosity Measurement of Gas–liquid Multiphase Fluids by the Falling Ball Method
@@ -12640,7 +12640,7 @@ Measurement of Bubble Size Distribution and Generation Position of Bubbles Gener
 Lymphoproliferative Disorder in an Esophageal Cancer Patient Treated with Pembrolizumab
 Sequential Prediction of Hall Thruster Performance Using Echo State Network Models
 Use of X-ray CT Imaging to Quantitatively Analyze the Effects of the Pore Morphology on the Tensile Properties of CP-Ti L-PBF Materials
-A DUF3844 domain-containing protein is required for vacuolar protein sorting in <i>Schizosaccharomyces pombe</i>
+A DUF3844 domain-containing protein is required for vacuolar protein sorting in Schizosaccharomyces pombe
 Terminal Settling Velocity of Particle in Suspension
 Comparison of the Viscoelastic Properties and Viscosity of Suspensions Determined by Oscillation and Creep Testing
 Settling of Particle in Foaming Slag
@@ -12710,12 +12710,12 @@ The role of social capital in subjective quality of life
 Effects of Long-Term In vivo Stimulation on the Electrochemical Properties of a Porous Stimulation Electrode for a Suprachoroidal–Transretinal Stimulation (STS) Retinal Prosthesis
 Integrated network findings reveal ubiquitin-specific protease 44 overexpression suppresses tumorigenicity of liver cancer
 Simulation of Anisotropic Sintering of Elliptical Particles by Combined PFM/DEM Approach
-Phylogenetic classification and physiological and ecological traits of <i>Metarhizium</i> spp.
+Phylogenetic classification and physiological and ecological traits of Metarhizium spp.
 A speech compression method without utilizing signal prediction
 Health educational intervention by school nurses to prevent children’s helminthic infection in Bangladesh: A cluster non-randomized controlled trial
 Las funciones pragmáticas de &lt;i&gt;mira&lt;/i&gt;, &lt;i&gt;oye&lt;/i&gt; y &lt;i&gt;escucha&lt;/i&gt;: sus características apelativas y el significado léxico
 Simultaneous determination of hexabromocyclododecanes, polybrominated diphenyl ethers, and dechlorane-related compounds in boxed sushi meals using a developed analytical method
-Effects of flavonoids on the phage susceptibility of <i>Escherichia coli</i> and on the transcription of chaperone gene <i>dnaK</i>
+Effects of flavonoids on the phage susceptibility of Escherichia coli and on the transcription of chaperone gene dnaK
 Crack expansion dynamics of freeze-dried soybean curd during rehydration
 Association of Serum Levels of Cholesterol Absorption and Synthesis Markers with the Presence of Cardiovascular Disease: The CACHE Study CVD Analysis
 Onset of instability with collapse observed in relatively high density and medium beta regions of LHD
@@ -13135,7 +13135,7 @@ Attitudes of Person at Driver’s Seat of Level 3–4 Automated Vehicle Affect H
 I0483_だきゃう
 Rational bottom-up synthesis of sulphur-rich porous carbons for single-atomic platinum catalyst supports
 Cardiomyocyte-specific deletion of the mitochondrial transporter Abcb10 causes cardiac dysfunction via lysosomal-mediated ferroptosis
-Identification of chromosome regions for high-temperature tolerance in the <i>japonica</i> rice cultivar ‘Genkitsukushi’ (<i>Oryza sativa</i> L.)
+Identification of chromosome regions for high-temperature tolerance in the japonica rice cultivar ‘Genkitsukushi’ (Oryza sativa L.)
 Strength Development Assessment Of Banana Leaf Ash and Lime Mixture in Clayey Sand Soils
 Research of turbulent transport due to dissipative trapped electron mode in tokamak plasmas
 I0483_じゅうさまい
@@ -13151,9 +13151,9 @@ Fully gapped pairing state in spin-triplet superconductor UTe <sub>2</sub>
 Expanding Ventricular Diverticulum Overlying the Cerebral Hemisphere through an Open-Lip Schizencephalic Cleft: A Report of Two Pediatric Cases
 I0483_ふきゃぎ
 I0483_たうんまばす
-A new type of sulfation reaction: <i>C</i>-sulfonation for α,β-unsaturated carbonyl groups by a novel sulfotransferase SULT7A1
+A new type of sulfation reaction: C-sulfonation for α,β-unsaturated carbonyl groups by a novel sulfotransferase SULT7A1
 I0483_かややー
-Search for <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>R</mml:mi></mml:math>-parity violating supersymmetric decays of the top squark to a <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>b</mml:mi></mml:math>-jet and a lepton in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:msqrt><mml:mi>s</mml:mi></mml:msqrt><mml:mo>=</mml:mo><mml:mn>13</mml:mn><mml:mtext> </mml:mtext><mml:mtext> </mml:mtext><mml:mi>TeV</mml:mi></mml:math> <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>p</mml:mi><mml:mi>p</mml:mi></mml:math> collisions with the ATLAS detector
+Search for R-parity violating supersymmetric decays of the top squark to a b-jet and a lepton in s=13  TeV pp collisions with the ATLAS detector
 Deuterium Magnetic Resonance Imaging Using Deuterated Water-Induced 2H-Tissue Labeling Allows Monitoring Cancer Treatment at Clinical Field Strength
 Epidemiology of Cervical Fracture/Cervical Spinal Cord Injury and Changes in Surgical Treatment Modalities in Elderly Individuals During a 10-year Period: A Nationwide Multicenter Study in Japan
 Pulmonary valve replacement for porcelain right ventricular outflow tract following repeated surgical intervention
@@ -13161,10 +13161,10 @@ Efficacy and safety of baricitinib in rheumatoid arthritis patients with moderat
 Impact of Imprinted Immunity Induced by mRNA Vaccination in an Experimental Animal Model
 Machine Learning–Based Prediction for In‐Hospital Mortality After Acute Intracerebral Hemorrhage Using Real‐World Clinical and Image Data
 Continuous worsening of population emotional stress globally: universality and variations
-Identification of <i>An7</i> as a positive awn regulator from two wild rice species
+Identification of An7 as a positive awn regulator from two wild rice species
 I0483_さぐな
 I0483_くつぎー
-Reverse Transformation Behavior in Multi-phased Medium Mn Martensitic Steel Analyzed by <i>in-situ</i> Neutron Diffraction
+Reverse Transformation Behavior in Multi-phased Medium Mn Martensitic Steel Analyzed by in-situ Neutron Diffraction
 From Inorganic to Organic Surfaces: Progress of Soft Nanotechnology
 Development and Evaluation of a Wearable Upper Limb Assistive Device with a Remote Center of Motion Mechanism
 Strategyproof and fair matching mechanism for union of symmetric m-convex constraints
@@ -13196,7 +13196,7 @@ Impact of adsorption on thermal conductivity dynamics of adsorbate and adsorbent
 Clear Cell Carcinoma Arising From Adenomyotic Cyst: A Case Report
 The Efficacy of Eculizumab in the Acute Phase of Neuromyelitis Optica Spectrum Disorder: A Case Series Study
 Exchangeability of growth measures of professional service firms
-Crystal structure of β‐ <scp>d</scp> ‐galactofuranosidase from <i>Streptomyces</i> sp. <scp>JHA19</scp> in complex with an inhibitor provides insights into substrate specificity
+Crystal structure of β‐ <scp>d</scp> ‐galactofuranosidase from Streptomyces sp. <scp>JHA19</scp> in complex with an inhibitor provides insights into substrate specificity
 FOXM1 and CHD4 expression is associated with chemoresistance in hepatoblastoma
 High‐Performance Nanogap Photodetectors Based on 2D Halide Perovskites with a Novel Spacer Cation
 Boosting photocatalytic hydrogen production of CdS/BiVO<sub>4</sub> nanoplates by transferring in-plane plasmon resonant energy of gold nanoparticles
@@ -13217,7 +13217,7 @@ Usefulness of the Reborn Soup for the Reduction of Salt Intake
 Gemba-Digitalisierung 4.0? Digitale Transformation auf Japanisch
 Pore design of POM@MOF hybrids for enhanced methylene blue capture
 Alkali metal bilayer intercalation in graphene
-Jet radius dependence of dijet momentum balance and suppression in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mtext>Pb</mml:mtext><mml:mo>+</mml:mo><mml:mtext>Pb</mml:mtext></mml:math> collisions at 5.02 TeV with the ATLAS detector
+Jet radius dependence of dijet momentum balance and suppression in Pb+Pb collisions at 5.02 TeV with the ATLAS detector
 Impact of vegetables on the microbiota of the rice bran pickling bed Nukadoko
 Wood-Derived Hydrogels for Osteochondral Defect Repair
 落球法による気液混相流体の見掛け粘度測定
@@ -13247,7 +13247,7 @@ Sex-Specific Facial-Soft-Tissue Morphology in Mandibular Prognathism
 Heterogeneous InGaAs/SiC UTC-PDs with Array Antennas Enabling On-Chip THz Wireless Communication
 Timeline-kun
 Dysbiosis of the gut microbiome may contribute to the pathogenesis of oral lichen planus through Treg dysregulation
-Genetic diversity and population structure of <i>Cybister rugosus</i> based on the mitochondrial COI gene and microsatellite markers
+Genetic diversity and population structure of Cybister rugosus based on the mitochondrial COI gene and microsatellite markers
 Association of Sedentary Behavior and Physical Activity With the Risk of Post‐Transplant Diabetes Mellitus Among Living Donor Liver Transplant Recipients: A Cross‐Sectional Isotemporal Substitution Analysis
 Holocene Temperature Trend Inferred From Oxygen and Carbonate Clumped Isotope Profiles of a Stalagmite Collected From a Maritime Area of Central Honshu, Japan
 ジッドとリュシー・ドラリュ＝マルドリュス : 『背徳者』の評価をめぐって
