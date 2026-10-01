@@ -28,7 +28,8 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
 *   **言語タグ `@xml:lang` の簡易判定**（かな漢字なら `ja`、アルファベットなら `en`）
 *   **発行年月（YYYY-MM）**・**巻/号（先頭ゼロ除去）**・**ページ**を JSON から抽出して整形
 *   **ORCID 検証**（形式不一致は空欄化）と **URI 構築**（`https://orcid.org/{id}`）
-*   **固定値運用**（権利/出版社/ISSN 等）はノートブックの設定ブロックで一元管理（将来変更に強い）
+*   **雑誌情報**（権利/出版者/ISSN/誌名）は JSON の `journal_info` から取得し、`journal_info` が無い場合はノートブックの設定ブロック（`DEFAULTS`）の値を使用
+*   **その他の固定値**（アクセス権/言語/コンテンツタイプ等）はノートブックの設定ブロックで一元管理（将来変更に強い）
 
 ***
 
@@ -75,6 +76,12 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     *   `month` は英語名/略称/数値いずれも許容し **MM** に正規化（例：`December`→`12`）。
     *   `issue` は先頭ゼロを除去（例：`"04"`→`4`）。
 *   **ページ情報**：`page_info.start_page` / `page_info.end_page`。
+*   **雑誌情報（任意）**：`journal_info` の各項目を次の列に出力します。
+    *   `title` → `/local:sourceTitle#1`
+    *   `publisher_en` / `publisher_ja` → `/dc:publisher#1` / `/dc:publisher#2`
+    *   `issn_print` / `issn_online` → `/jpcoar:sourceIdentifier#1` / `/jpcoar:sourceIdentifier#2`
+    *   `licence_name` / `licence_url` → `/dc:rights#1` / `/dc:rights#1@rdf:resource`
+    *   `journal_info` が無い JSON（例：`json_sample_*.json`）、または値が空の項目は、従来どおり設定ブロック（`DEFAULTS`）の値を使います。
 
 > 参考：`json_sample_1.json` は 3 名著者（所属 2/1/1）・キーワード 6 件の例です。
 
@@ -89,7 +96,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     *   `/jpcoar:creator#n/jpcoar:affiliation#m`：当該著者の `affiliation_numbers` の順で **m=1..M**。
     *   `/jpcoar:subject#k`：`keywords` の順で **k=1..K**。
     *   各“ヘッダ列”（`/jpcoar:creator#n` や `/jpcoar:creator#n/jpcoar:affiliation#m`）の **値は空セル** を出力します。
-*   固定値の例：
+*   固定値の例（設定ブロックの既定値。権利・出版者・ISSN・sourceTitle は `journal_info` があればその値を優先）：
     *   `/dcterms:accessRights#1=110`、`/dc:rights#1=Creative Commons Attribution 4.0 International`（`@xml:lang=en`、`@rdf:resource=https://creativecommons.org/licenses/by/4.0/`）
     *   出版者：`/dc:publisher#1=Transdisciplinary Research and Education Center for Green Technologies, Kyushu University`（`@xml:lang=en`）／`/dc:publisher#2=九州大学グリーンテクノロジー研究教育センター`（`@xml:lang=ja`）
     *   `PISSN=2189-0420 / eISSN=2432-5953 / sourceTitle=evergreen / language=eng / contentsType=1207000000 / version=VoR / peerReviewed=refereed`  
