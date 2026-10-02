@@ -26,9 +26,9 @@ PythonコードはローカルのJupyter Hubで実行するのでコードの内
 　/datacite:description#1　※jsonから取得する。
 　/datacite:description#1@xml:lang　※descriptionの値に応じて"en"または"ja"または空値とする。
 　/datacite:description#1@descriptionType　※無条件で"Abstract"とする。
-　/dc:publisher#1　※初期値を"Transdisciplinary Research and Education Center for Green Technologies, Kyushu University"とする。
+　/dc:publisher#1　※初期値を"Interdisciplinary Graduate School of Engineering Sciences, Kyushu University, Japan"とする。
 　/dc:publisher#1@xml:lang　※publisherの値に応じて"en"または"ja"または空値とする。
-　/dc:publisher#2　※初期値を"九州大学グリーンテクノロジー研究教育センター"とする。
+　/dc:publisher#2　※初期値を"九州大学大学院総合理工学府"とする。
 　/dc:publisher#2@xml:lang　※publisherの値に応じて"en"または"ja"または空値とする。
 　/datacite:date#1　※jsonから取得する。publication_info=>year、publication_info=> month　ただしYYYY-MMの形式に変換
 　/datacite:date#1@dateType　※初期値を"Issued"とする。
