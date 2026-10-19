@@ -39,8 +39,10 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     ├─ json2tsv-4evergreen.ipynb      # 変換ノートブック（Python）
     ├─ json_sample_1.json             # サンプル（軽量） … output_sample_1.txt を生成
     ├─ json_sample_2.json             # サンプル（重厚） … output_sample_2.txt を生成
+    ├─ json_sample_3.json             # サンプル（新形式・架空のデータ） … output_sample_3.txt を生成
     ├─ output_sample_1.txt            # 変換結果サンプル（TSV, sample_1 に対応）
     ├─ output_sample_2.txt            # 変換結果サンプル（TSV, sample_2 に対応）
+    ├─ output_sample_3.txt            # 変換結果サンプル（TSV, sample_3 に対応）
     ├─ マッピング表.xlsx             # JSON→TSV マッピング仕様書（JPCOAR2.0ベース）
     ├─ prompt_for_AI_code_generation.txt  # 生成AI用プロンプト（要件定義）
     └─ readme.md                      # ← 本ドキュメント
@@ -77,11 +79,19 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     *   `issue` は先頭ゼロを除去（例：`"04"`→`4`）。
 *   **ページ情報**：`page_info.start_page` / `page_info.end_page`。
 *   **雑誌情報（任意）**：`journal_info` の各項目を次の列に出力します。
-    *   `title` → `/local:sourceTitle#1`
     *   `publisher_en` / `publisher_ja` → `/dc:publisher#1` / `/dc:publisher#2`
     *   `issn_print` / `issn_online` → `/jpcoar:sourceIdentifier#1` / `/jpcoar:sourceIdentifier#2`
     *   `licence_name` / `licence_url` → `/dc:rights#1` / `/dc:rights#1@rdf:resource`
     *   `journal_info` が無い JSON（例：`json_sample_*.json`）、または値が空の項目は、従来どおり設定ブロック（`DEFAULTS`）の値を使います。
+    *   `/local:sourceTitle#1` は QIR 内部のコードのため、`journal_info.title` は使わず、常に設定ブロックの値（小文字の `evergreen`）を出力します。
+*   **新形式の要素（任意）**：新しい形式の JSON（`manuscript_id` を持つもの）に含まれる要素を、次の列に出力します。
+    *   `authors[*].family_name` / `authors[*].given_name` → `/jpcoar:creator#n/jpcoar:familyName#1` / `/jpcoar:creator#n/jpcoar:givenName#1`（各 `@xml:lang` 付き、`creatorName` の後）。1 語の氏名では `given_name` が null のため姓のみ。
+    *   `authors[*].identifiers`（Scopus 著者ID）は、JPCOAR の `nameIdentifierScheme` の語彙に Scopus が無いため出力しません。
+    *   `manuscript_record.received` / `manuscript_record.accepted` → `/datacite:date#2` / `/datacite:date#3`（`@dateType=Submitted` / `Accepted`）。`manuscript_id` を持つレコードのみ。
+    *   `conference`（例：`"QiR2025"`、通常論文は null）は特集号の目印です。本誌の論文は雑誌論文のため、会議情報（`/jpcoar:conference`）としては出力しません。
+    *   `subjects`（主題分野）→ キーワードの後に続く `/jpcoar:subject#k`（`@subjectScheme` は設定ブロックの `subject_area_scheme`）
+    *   `language`（例：`"en"`）→ `/dc:language#1`（ISO 639-3 に変換。無い場合は設定ブロックの値 `eng`）
+    *   これらの列は、値を持つ JSON が 1 件でもある場合にのみ出力します。新形式の要素を持たない JSON（`json_sample_1.json`、`json_sample_2.json`、公開済みのレコード）の出力は変わりません。
 
 > 参考：`json_sample_1.json` は 3 名著者（所属 2/1/1）・キーワード 6 件の例です。
 
@@ -96,7 +106,7 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     *   `/jpcoar:creator#n/jpcoar:affiliation#m`：当該著者の `affiliation_numbers` の順で **m=1..M**。
     *   `/jpcoar:subject#k`：`keywords` の順で **k=1..K**。
     *   各“ヘッダ列”（`/jpcoar:creator#n` や `/jpcoar:creator#n/jpcoar:affiliation#m`）の **値は空セル** を出力します。
-*   固定値の例（設定ブロックの既定値。権利・出版者・ISSN・sourceTitle は `journal_info` があればその値を優先）：
+*   固定値の例（設定ブロックの既定値。権利・出版者・ISSN は `journal_info` があればその値を優先）：
     *   `/dcterms:accessRights#1=110`、`/dc:rights#1=Creative Commons Attribution 4.0 International`（`@xml:lang=en`、`@rdf:resource=https://creativecommons.org/licenses/by/4.0/`）
     *   出版者：`/dc:publisher#1=Transdisciplinary Research and Education Center for Green Technologies, Kyushu University`（`@xml:lang=en`）／`/dc:publisher#2=九州大学グリーンテクノロジー研究教育センター`（`@xml:lang=ja`）
     *   `PISSN=2189-0420 / eISSN=2432-5953 / sourceTitle=evergreen / language=eng / contentsType=1207000000 / version=VoR / peerReviewed=refereed`  
@@ -119,6 +129,8 @@ JPCOARスキーマv2.0の必須・推奨項目のうち、本プロジェクト�
     *   著者3名・所属 2/1/1・キーワード6件の完全例。列ヘッダの増殖と `@xml:lang`、ORCID/URI を確認できます。
 *   `json_sample_2.json` → `output_sample_2.txt`
     *   著者数・所属数・キーワード数がより多い重厚例（列増殖の上限確認に有用）。
+*   `json_sample_3.json` → `output_sample_3.txt`
+    *   新形式の要素をすべて含む例（架空のデータ）。姓・名、1 語の氏名、主題分野、言語、受付日・受理日の列を確認できます。
 
 ***
 

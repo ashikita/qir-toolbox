@@ -1,0 +1,173 @@
+{
+  "manuscript_id": "EGREEN-09999-2026-01",
+  "article_type": "Special issue paper",
+  "conference": "QiR2025",
+  "es_id": "999999",
+  "journal_id": "EGREEN",
+  "language": "en",
+  "subjects": [
+    "Electronic, Optical and Magnetic Materials",
+    "Surfaces, Coating and Films"
+  ],
+  "issns": {
+    "print": "2189-0420",
+    "electronic": "2432-5953"
+  },
+  "title": "Synthetic Test Record for the New Metadata Elements: Electrodeposited NiMn Catalysts",
+  "affiliations": {
+    "1": "Department of Testing, Faculty of Engineering, Example University, 12345, Sample City, Indonesia",
+    "2": "Sample Research Center, Example University, 12345, Sample City, Indonesia"
+  },
+  "contribution_codes": {
+    "A": "Research concept and design",
+    "B": "Collection and/or assembly of data",
+    "C": "Data analysis and interpretation",
+    "D": "Writing the article",
+    "E": "Critical revision of the article",
+    "F": "Final approval of the article"
+  },
+  "authors": [
+    {
+      "name": "Aiko Tanaka",
+      "given_name": "Aiko",
+      "family_name": "Tanaka",
+      "orcid": "0000-0002-1825-0097",
+      "position": "Dr.",
+      "is_corresponding": true,
+      "affiliation_numbers": [
+        "1",
+        "2"
+      ],
+      "contribution": "A-D",
+      "percent_contribution": "50%",
+      "contact_info": {
+        "email": "aiko.tanaka@example.ac.id",
+        "phone": null
+      },
+      "roles": [
+        "Research concept and design",
+        "Collection and/or assembly of data",
+        "Data analysis and interpretation",
+        "Writing the article"
+      ],
+      "es_user_id": "u000001",
+      "degrees": null,
+      "suffix": null,
+      "equal_contribution": false,
+      "orcid_authenticated": false,
+      "identifiers": {
+        "scopus": "57000000001"
+      },
+      "custom_meta": {
+        "contribution-percentage": "50"
+      }
+    },
+    {
+      "name": "Budi Santoso",
+      "given_name": "Budi",
+      "family_name": "Santoso",
+      "orcid": null,
+      "position": "Mr.",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "1"
+      ],
+      "contribution": "B-C",
+      "percent_contribution": "30%",
+      "contact_info": {
+        "email": "budi.santoso@example.ac.id",
+        "phone": null
+      },
+      "roles": [
+        "Collection and/or assembly of data",
+        "Data analysis and interpretation"
+      ],
+      "es_user_id": "u000002",
+      "degrees": null,
+      "suffix": null,
+      "equal_contribution": false,
+      "orcid_authenticated": null,
+      "identifiers": {},
+      "custom_meta": {
+        "contribution-percentage": "30"
+      }
+    },
+    {
+      "name": "Mamta",
+      "given_name": null,
+      "family_name": "Mamta",
+      "orcid": null,
+      "position": "Prof.",
+      "is_corresponding": false,
+      "affiliation_numbers": [
+        "2"
+      ],
+      "contribution": "E-F",
+      "percent_contribution": "20%",
+      "contact_info": {
+        "email": "mamta@example.ac.id",
+        "phone": null
+      },
+      "roles": [
+        "Critical revision of the article",
+        "Final approval of the article"
+      ],
+      "es_user_id": "u000003",
+      "degrees": null,
+      "suffix": null,
+      "equal_contribution": false,
+      "orcid_authenticated": null,
+      "identifiers": {},
+      "custom_meta": {
+        "contribution-percentage": "20"
+      }
+    }
+  ],
+  "abstract": "This is a synthetic record made to test the conversion of the new metadata elements. It describes no real study: the title, authors, affiliations and identifiers are invented. It carries family and given names, a Scopus author identifier, a one-word author name, subject areas, the language, the conference and the submission and acceptance dates.",
+  "keywords": [
+    "electrodeposition",
+    "nickel manganese catalyst",
+    "test record"
+  ],
+  "manuscript_record": {
+    "received": "2026-02-27",
+    "revised": "2026-06-25",
+    "accepted": "2026-09-16",
+    "final_review": "2026-10-13"
+  },
+  "history": {
+    "first-version-received": "2026-02-27",
+    "received": "2026-06-25",
+    "revision": "2026-06-25",
+    "reviewed": "2026-07-24",
+    "acceptance": "2026-09-16",
+    "decision": "2026-09-16",
+    "final-review": "2026-10-13"
+  },
+  "authors_short": "A. Tanaka, B. Santoso, Mamta",
+  "custom_meta": {},
+  "page_info": {
+    "file_name_es": "EGREEN-09999-2026-01_QiR2025.pdf",
+    "file_name_pages": "p1-10.pdf",
+    "start_page": 1,
+    "end_page": 10,
+    "page_count": 10
+  },
+  "publication_info": {
+    "volume": "13",
+    "issue": "04",
+    "month": "December",
+    "year": "2026"
+  },
+  "journal_info": {
+    "title": "Evergreen",
+    "title_full": "Evergreen - Joint Journal of Novel Carbon Resource Sciences and Green Asia Strategy",
+    "publisher_en": "Interdisciplinary Graduate School of Engineering Sciences (IGSES), Kyushu University",
+    "publisher_ja": "九州大学大学院総合理工学府",
+    "issn_print": "2189-0420",
+    "issn_online": "2432-5953",
+    "licence": "CC BY 4.0",
+    "licence_name": "Creative Commons Attribution 4.0 International",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+}
